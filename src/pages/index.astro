@@ -1,5 +1,6 @@
 ---
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
+import {Dialog, DialogContent, DialogDescription, DialogHeader, DialogTrigger, DialogTitle} from '@/components/ui/dialog';
 import Layout from '../layouts/Layout.astro';
 
 import { getCollection } from 'astro:content';
@@ -11,7 +12,17 @@ const posts = (await getCollection('products')).sort(
 
 <Layout title="Product Gallery">
 	<div class="max-w-7xl mx-auto pt-6">
-		<h1>Welcome to HKCL Prints 3D</h1>
-		<p>We have designed and produced a large variety of 3D printables for your perusal</p>
+		<Dialog>
+			<DialogTrigger>Open</DialogTrigger>
+			<DialogContent>
+			  <DialogHeader>
+				<DialogTitle>Are you sure absolutely sure?</DialogTitle>
+				<DialogDescription>
+				  This action cannot be undone. This will permanently delete your account
+				  and remove your data from our servers.
+				</DialogDescription>
+			  </DialogHeader>
+			</DialogContent>
+		  </Dialog>
 	</div>
 </Layout>
