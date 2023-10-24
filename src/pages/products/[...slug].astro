@@ -1,0 +1,30 @@
+---
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
+import Layout from '@/layouts/Layout.astro';
+
+import { type CollectionEntry, getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+	const products = await getCollection('products');
+	return products.map((product) => ({
+		params: { slug: product.slug },
+		props: product,
+	}));
+}
+type Props = CollectionEntry<'blog'>;
+
+const product = Astro.props;
+const { Content } = await product.render();
+---
+
+<Layout title="Product Gallery">
+	<div class="mx-auto max-w-7xl pt-6">
+		<Card>
+			<CardHeader>
+				<CardTitle>{product.data.title}</CardTitle>
+				<CardDescription>{product.data.description}</CardDescription>
+			</CardHeader>
+		</Card>
+	</div>
+</Layout>
+
