@@ -5,6 +5,10 @@ const products = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
+		price: z.number().optional(),
+        category: z.string().default('uncategorized'),
+		tags: z.array(z.string()).default([]),
+		featured: z.boolean().default(false),
 		// Transform string to Date object
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
