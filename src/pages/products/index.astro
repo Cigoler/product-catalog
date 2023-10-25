@@ -24,24 +24,19 @@ const groupedProducts = groupByCategory(products);
 ---
 
 <Layout title="Product Gallery">
-	<div class="p-6 space-y-8">
+	<div class="space-y-8">
 		{Object.entries(groupedProducts).map(([category, products]) => (
 		  <div>
 			<p class="text-gray-600 text-center text-sm">Printable Category:</p>
 			<h2 class="text-lg text-gray-700 text-center font-bold tracking-tighter uppercase mb-4">{category}</h2>
-			<div class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+			<hr class="bg-gray-300 shadow-lg mb-6"/>
+			<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
 			  {products.map((product) => (
-				<Card key={product.slug}>
+				<Card key={product.slug} className="group">
 				  {product.data.heroImage &&
-					<div class="relative m-0 overflow-hidden text-gray-700 bg-transparent rounded-t-md shadow-md bg-clip-border">
-					  	<img src={product.data.heroImage} alt={product.data.title} class="object-cover h-48 w-96"/>
-					  	<div class="absolute bottom-2 left-2">
-							<div class="flex flex-wrap space-x-2">
-								{product.data.tags.map((tag) => (
-									<Badge className="lowercase mb-2" >{tag}</Badge>
-								))}
-							</div>
-						</div>
+					<div class="cursor-pointer relative m-0 overflow-clip rounded-t-lg shadow-md h-64 w-full bg-clip-border">					  	
+						<img src={product.data.heroImage} alt={product.data.title} class="absolute h-full w-full object-cover rounded-t-md"/>						
+							<div class="h-full w-full group-hover:bg-gray-100/10 transition ease-in-out bg-gray-100/80 rounded-t-md"></div> 
 					</div>
 				  }
 				  <CardHeader>
@@ -52,17 +47,6 @@ const groupedProducts = groupByCategory(products);
 					  {product.data.description}
 					</CardDescription>
 				  </CardHeader>
-				  <CardContent>
-					<div class="pt-6 space-y-3">
-					  {/* Add more content here if needed */}
-					   
-					</div>
-				  </CardContent>
-				  <CardFooter>
-					<a href={`/products/${product.slug}/`}>
-					  <Button variant="secondary">View Product</Button>  
-					</a>
-				  </CardFooter>
 				</Card>
 			  ))}
 			</div>

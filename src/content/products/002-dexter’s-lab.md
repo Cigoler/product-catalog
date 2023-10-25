@@ -1,7 +1,7 @@
 ---
 title: 'Dexter’s Lab'
 description: 'Discover the unique features and intricate design of our Dexter’s Lab. Perfect for various applications, this piece adds a touch of creativity and innovation to any setting.'
-category: 'Film & TV'
+category: 'LED Lights'
 tags: [
     'Dexters Lab', 
     'famous', 

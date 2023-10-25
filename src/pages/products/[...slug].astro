@@ -22,39 +22,40 @@ const { Content } = await product.render();
 
 <Layout title="Product Gallery">
 	<div class="mx-auto max-w-7xl pt-6">
-		<div class="grid grid-cols-2">
+		<div class={`grid ${product.data.heroImage ? 'grid-cols-2 gap-6' : 'grid-cols-1'}`}>
 			{product.data.heroImage &&
 				<Card>				
-					<div class="relative m-0 overflow-hidden text-gray-700 bg-transparent rounded-t-md shadow-md bg-clip-border">
+					<div class="relative m-0 overflow-hidden text-gray-700 bg-transparent rounded-md shadow-md bg-clip-border">
 						<img src={product.data.heroImage} alt={product.data.title} class="object-cover h-full"/>
 					</div>	
 				</Card>
 			}
-		<Card>			
-			<CardHeader>
-				<CardTitle>
-					{product.data.title}
-				</CardTitle>
-				<CardDescription>
-					{product.data.description}
-				</CardDescription>
-			</CardHeader>
-			<CardContent>
-				<div class="pt-6 space-y-3">
-					{/* Add more content here if needed */}
-					<div class="flex flex-wrap space-x-2">
-						{product.data.tags.map((tag) => (
-							<Badge variant="outline" className="lowercase">{tag}</Badge>
-						))}
+			<Card>			
+				<CardHeader>
+					<CardTitle>
+						{product.data.title}
+					</CardTitle>
+					<CardDescription>
+						{product.data.description}
+					</CardDescription>
+				</CardHeader>
+				<CardContent>
+					<div class="pt-6 space-y-3">
+						{/* Add more content here if needed */}
+						<div class="flex flex-wrap space-x-2">
+							{product.data.tags.map((tag) => (
+								<Badge variant="outline" className="lowercase">{tag}</Badge>
+							))}
+						</div>
 					</div>
-				</div>
-			</CardContent>			
-			<CardFooter>
-				<a href={`/products/${product.slug}/`}>
-					<Button variant="secondary">View Product</Button>  
-				</a>
-			</CardFooter>
-		</Card>
+				</CardContent>			
+				<CardFooter>
+					<a href={`/products/${product.slug}/`}>
+						<Button variant="secondary">View Product</Button>  
+					</a>
+				</CardFooter>
+			</Card>
+		</div>
 	</div>
 </Layout>
 
