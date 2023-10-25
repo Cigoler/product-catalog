@@ -26,13 +26,13 @@ const groupedProducts = groupByCategory(products);
 	<div class="p-6 space-y-8">
 		{Object.entries(groupedProducts).map(([category, products]) => (
 		  <div>
-			<h2 class="text-2xl font-bold tracking-tighter uppercase mb-4">{category}</h2>
-			<hr class="border-gray-200 mb-8" />
+			<p class="text-gray-600 text-center text-sm">Printable Category:</p>
+			<h2 class="text-lg text-gray-700 text-center font-bold tracking-tighter uppercase mb-4">{category}</h2>
 			<div class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
 			  {products.map((product) => (
 				<Card key={product.slug}>
 				  {product.data.heroImage &&
-					<div class="relative m-0 overflow-hidden text-gray-700 bg-transparent rounded-t-md shadow-none bg-clip-border">
+					<div class="relative m-0 overflow-hidden text-gray-700 bg-transparent rounded-t-md shadow-md bg-clip-border">
 					  <img src={product.data.heroImage} alt={product.data.title} class="object-cover h-48 w-96"/>
 					</div>
 				  }
@@ -47,6 +47,13 @@ const groupedProducts = groupByCategory(products);
 				  <CardContent>
 					<div class="pt-6 space-y-3">
 					  {/* Add more content here if needed */}
+					   <div class="flex flex-wrap">
+					 	{product.data.tags.map((tag) => (
+							<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800 mr-2 mb-2">
+								{tag}
+							</span>
+						))}
+					   </div>
 					</div>
 				  </CardContent>
 				  <CardFooter>
