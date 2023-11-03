@@ -1,78 +1,42 @@
 ---
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
+
 import Layout from '@/layouts/Layout.astro';
 
 import { getCollection } from 'astro:content';
-import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
 import { AccordionWrapper } from '@/components/Category.jsx';
 const products = (await getCollection('products')).sort(
 	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 
+/**
+ * Groups an array of products by their category.
+ *
+ * @param {Array} products - The array of products to group.
+ * @returns {Object} An object with keys representing each category and values representing an array of products in that category.
+ */
 function groupByCategory(products) {
-  return products.reduce((acc, product) => {
-    const category = product.data.category || 'Uncategorized';
-    if (!acc[category]) {
-      acc[category] = [];
-    }
-    acc[category].push(product);
-    return acc;
-  }, {});
+	return products.reduce((acc, product) => {
+		const category = product.data.category || 'Uncategorized';
+		if (!acc[category]) {
+			acc[category] = [];
+		}
+		acc[category].push(product);
+		return acc;
+	}, {});
 }
 
+
 const groupedProducts = groupByCategory(products);
+const accordionItems = Object.entries(groupedProducts).map(([category, products]) => ({
+	value: category,
+	title: category,
+	content: products,
+}));
+console.log(accordionItems[0].content);
 ---
 
 <Layout title="Product Gallery">
-	<div class="space-y-8">
-
-		<AccordionWrapper items={[
-			{
-				value: "item1",
-				title: "Item 1",
-				content: "This is the content for item 1",
-			},
-			{
-				value: "item2",
-				title: "Item 2",
-				content: "This is the content for item 2",
-			},
-			{
-				value: "item3",
-				title: "Item 3",
-				content: "This is the content for item 3",
-			},
-		]} client:load/>
-
-		<hr />
-
-		{Object.entries(groupedProducts).map(([category, products]) => (
-		  <div>
-			<p class="text-gray-600 text-center text-sm">Printable Category:</p>
-			<h2 class="text-lg text-gray-700 text-center font-bold tracking-tighter uppercase mb-4">{category}</h2>
-			<hr class="bg-gray-300 shadow-lg mb-6"/>
-			<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-			  {products.map((product) => (
-				<Card key={product.slug} className="group">
-				  {product.data.heroImage &&
-					<div class="cursor-pointer relative m-0 overflow-clip rounded-t-lg shadow-md h-64 w-full bg-clip-border">					  	
-						<img src={product.data.heroImage} alt={product.data.title} class="absolute h-full w-full object-cover rounded-t-md"/>						
-							<div class="h-full w-full group-hover:bg-gray-100/10 transition ease-in-out bg-gray-100/80 rounded-t-md"></div> 
-					</div>
-				  }
-				  <CardHeader>
-					<CardTitle>
-					  {product.data.title}
-					</CardTitle>
-					<CardDescription>
-					  {product.data.description}
-					</CardDescription>
-				  </CardHeader>
-				</Card>
-			  ))}
-			</div>
-		  </div>
-		))}
+	<div class="px-4 space-y-8">
+		<AccordionWrapper items={accordionItems} client:load/>
 	</div>
 </Layout>

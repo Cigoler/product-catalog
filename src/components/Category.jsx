@@ -5,6 +5,7 @@ import {
     AccordionTrigger,
   } from "@/components/ui/accordion"
 
+  import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 
 /**
  * Renders a wrapper component that displays a list of items in an accordion.
@@ -39,7 +40,26 @@ function Items({items}) {
                             {item.title}
                         </AccordionTrigger>
                         <AccordionContent>
-                            {item.content}
+                            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                                {item.content.map((product) => (
+                                    <Card key={product.slug} className="group">
+                                    {product.data.heroImage &&
+                                        <div class="cursor-pointer relative m-0 overflow-clip rounded-t-lg shadow-md h-32 w-full bg-clip-border">					  	
+                                            <img src={product.data.heroImage} alt={product.data.title} class="absolute h-full w-full object-cover rounded-t-md"/>						
+                                                <div class="h-full w-full group-hover:bg-gray-100/10 transition ease-in-out bg-gray-100/80 rounded-t-md"></div> 
+                                        </div>
+                                    }
+                                    <CardHeader>
+                                        <CardTitle>
+                                        {product.data.title}
+                                        </CardTitle>
+                                        <CardDescription>
+                                        {product.data.description}
+                                        </CardDescription>
+                                    </CardHeader>
+                                    </Card>
+                                ))}
+                            </div>
                         </AccordionContent>
                     </AccordionItem>
             ))}
