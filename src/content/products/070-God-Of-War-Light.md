@@ -10,7 +10,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-12-01'
-heroImage: '/images/070.png'
+heroImage: '/images/070.jpeg'
 ---
 
 Placeholder content for God of War LED.
