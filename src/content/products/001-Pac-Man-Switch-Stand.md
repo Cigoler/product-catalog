@@ -13,4 +13,4 @@ pubDate: '2023-08-20'
 heroImage: '/images/001.jpg'
 ---
 
-Placeholder content for Dexter’s Lab.
+Placeholder content for Pac Man Switch Stand.
