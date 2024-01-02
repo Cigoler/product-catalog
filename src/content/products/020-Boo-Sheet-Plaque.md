@@ -1,6 +1,6 @@
 ---
 title: 'Boo Sheet'
-description: 'Funny Boo Sheet ghost plaque. Pefect deco for halloween'
+description: 'Funny Boo Sheet ghost plaque. Pefect deco for halloween. Embossed or Flat version available.'
 catalogue number: '020'
 tags: [
     'Boo', 
