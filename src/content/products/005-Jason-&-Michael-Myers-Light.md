@@ -6,8 +6,8 @@ subcategory: 'Standard'
 catalogue number: '005'
 tags: [
     'Jason', 
-    'Horror'
-    'Michael Myers'
+    'Horror',
+    'Michael Myers',
     'Lightbox', 
     ]
 featured: true
