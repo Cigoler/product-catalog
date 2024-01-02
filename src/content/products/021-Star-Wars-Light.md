@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-09-20'
-heroImage: '/images/021.jpg'
+heroImage: '/images/021.png'
 ---
 
 Placeholder content for Star Wars Text.
