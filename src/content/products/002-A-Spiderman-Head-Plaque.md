@@ -1,0 +1,16 @@
+---
+title: 'Spiderman Head Plaque'
+description: 'Spiderman head plaque. A great addition to any Spidey fans gameroom office or bedroom'
+category: 'Plaque, Wall Art & Signs'
+tags: [
+    'Spiderman', 
+    'Plaque', 
+    'Marvel', 
+    '',
+    ]
+featured: true
+pubDate: '2023-08-20'
+heroImage: '/images/002 [A].png'
+---
+
+Placeholder content for Spiderman head plaque.
