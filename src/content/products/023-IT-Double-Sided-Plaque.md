@@ -13,4 +13,4 @@ pubDate: '2023-09-20'
 heroImage: '/images/023.png'
 ---
 
-Placeholder content for Halloween.
+Placeholder content for IT The Clown Head.
