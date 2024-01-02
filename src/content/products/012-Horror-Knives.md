@@ -14,4 +14,4 @@ pubDate: '2023-09-20'
 heroImage: '/images/012.jpg'
 ---
 
-Placeholder content for Minecraft Switch Stand.
+Placeholder content for Horror Knives.
