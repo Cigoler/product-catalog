@@ -1,6 +1,6 @@
 ---
 title: 'Dexter LED Light'
-description: 'Dexter LED Light. A great addition to any Dexters Lab fans game room office or bedroom'
+description: 'Dexter LED Light. A great addition to any Dexter Lab fans game room office or bedroom'
 category: 'LED Light Box'
 subcategory: 'Standard'
 catalogue number: '010'
