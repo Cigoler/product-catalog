@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-09-20'
-heroImage: '/images/013.jpg'
+heroImage: '/images/013.jpeg'
 ---
 
 Placeholder content for Yoshi Breakable Egg.
