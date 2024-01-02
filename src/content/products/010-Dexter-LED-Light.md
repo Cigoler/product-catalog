@@ -13,4 +13,4 @@ featured: true
 pubDate: '2023-08-20'
 heroImage: '/images/010.png'
 
-Placeholder content for Dexter LED Light.
+Placeholder content for Doggy Poop Bag Holder.
