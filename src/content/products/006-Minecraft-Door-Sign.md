@@ -6,8 +6,7 @@ catalogue number: '006'
 tags: [
     'Minecraft', 
     'Gaming', 
-    'Door sign', 
-    '',
+    'Door sign',
     ]
 featured: true
 pubDate: '2023-08-20'
