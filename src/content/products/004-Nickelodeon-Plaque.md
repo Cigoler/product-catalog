@@ -6,8 +6,7 @@ catalogue number: '004'
 tags: [
     'Nickelodeon', 
     'Plaque', 
-    'TV', 
-    '',
+    'TV',
     ]
 featured: true
 pubDate: '2023-08-20'

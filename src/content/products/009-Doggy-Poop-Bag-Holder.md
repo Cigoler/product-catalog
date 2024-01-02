@@ -6,8 +6,6 @@ catalogue number: '009'
 tags: [
     'Poop Emoji', 
     'Holder', 
-    '', 
-    '',
     ]
 featured: true
 pubDate: '2023-08-20'

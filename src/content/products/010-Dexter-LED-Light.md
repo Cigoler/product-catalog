@@ -8,7 +8,6 @@ tags: [
     'Dexter', 
     'Lightbox', 
     'Cartoon Network', 
-    ''
     ]
 featured: true
 pubDate: '2023-08-20'

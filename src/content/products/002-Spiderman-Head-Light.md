@@ -7,8 +7,7 @@ catalogue number: '002'
 tags: [
     'Spiderman', 
     'Lightbox', 
-    'Marvel', 
-    '',
+    'Marvel',
     ]
 featured: true
 pubDate: '2023-08-20'

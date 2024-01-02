@@ -6,8 +6,7 @@ catalogue number: '003'
 tags: [
     'Mickey', 
     'Disney', 
-    'Mickey Mouse', 
-    '',
+    'Mickey Mouse',
     ]
 featured: true
 pubDate: '2023-08-20'

@@ -6,8 +6,7 @@ catalogue number: '002'
 tags: [
     'Spiderman', 
     'Plaque', 
-    'Marvel', 
-    '',
+    'Marvel',
     ]
 featured: true
 pubDate: '2023-08-20'
