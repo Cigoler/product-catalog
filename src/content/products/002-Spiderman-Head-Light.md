@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-08-20'
-heroImage: '/images/002.jpg'
+heroImage: '/images/002.png'
 ---
 
 Placeholder content for Spiderman head light.
