@@ -1,6 +1,6 @@
 ---
 title: 'Boo Mario LED Light'
-description: 'Boo Ghost LED light. A great addition to any Mario fans gameroom office or bedroom'
+description: 'Boo Ghost LED light. A great addition to any Mario fans game room office or bedroom'
 category: 'LED Light Box'
 subcategory: 'Standard'
 catalogue number: '007'

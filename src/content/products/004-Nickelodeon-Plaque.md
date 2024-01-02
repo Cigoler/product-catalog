@@ -1,6 +1,6 @@
 ---
 title: 'Nickelodeon Plaque'
-description: 'Nickelodeon plaque. A great addition to any cartoon fans gameroom office or bedroom'
+description: 'Nickelodeon plaque. A great addition to any cartoon fans game room office or bedroom'
 category: 'Plaque, Wall Art & Signs'
 catalogue number: '004'
 tags: [
