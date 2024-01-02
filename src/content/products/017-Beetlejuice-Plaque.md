@@ -4,7 +4,7 @@ description: 'The quirky character from the dead. Beetlejuice. Awesome plaque wh
 category: 'Plaque, Wall Art & Signs'
 catalogue number: '017'
 tags: [
-    'NBeetlejuice', 
+    'Beetlejuice', 
     'Plaque', 
     'TV',
     ]
