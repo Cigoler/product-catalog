@@ -2,6 +2,7 @@
 title: 'Spiderman Head Plaque'
 description: 'Spiderman head plaque. A great addition to any Spidey fans gameroom office or bedroom'
 category: 'Plaque, Wall Art & Signs'
+catalogue number: '002'
 tags: [
     'Spiderman', 
     'Plaque', 
