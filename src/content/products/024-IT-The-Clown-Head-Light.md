@@ -1,6 +1,6 @@
 ---
 title: 'IT The Clown Head'
-description: 'The quirky character from the dead. Beetlejuice. Awesome light box with an optional sandworm stand. Great item for any movie fan'
+description: 'We all float down here. Iconic clown from the horror series IT the Clown. This LED light box is a great gift for horror fans.'
 category: 'LED Light Box'
 subcategory: 'Standard'
 catalogue number: '024'
@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-10-20'
-heroImage: '/images/024.jpg'
+heroImage: '/images/024.png'
 ---
 
 Placeholder content for IT The Clown Head.
