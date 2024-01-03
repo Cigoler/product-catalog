@@ -1,6 +1,6 @@
 ---
 title: 'Robocock'
-description: 'What do you get if you crossed Robocop with a penis ? Robocock. Plenty of variations in the pack. One with movable legs and also a pen holder option'
+description: 'What do you get if you crossed Robocop with a penis ? Robocock. 6 differennt variations in the pack. One with movable legs and also a pen holder option'
 category: 'Adult'
 catalogue number: '046'
 tags: [
