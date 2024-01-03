@@ -14,4 +14,4 @@ pubDate: '2023-10-20'
 heroImage: '/images/025.jpg'
 ---
 
-Placeholder content for IT The Clown Head.
+Placeholder content for IT The Clown Head & Balloon.
