@@ -12,4 +12,4 @@ featured: true
 pubDate: '2023-11-20'
 heroImage: '/images/067.png'
 ---
-Placeholder content for F-Them Kids Grinch. 
+Placeholder content for F-Them Kids Grinch.
