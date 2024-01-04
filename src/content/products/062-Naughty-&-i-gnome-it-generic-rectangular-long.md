@@ -2,7 +2,7 @@
 title: 'Naughty & I Gnome It'
 description: 'Naughty & I Gnome It LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
 category: 'LED Light Box'
-subcategory: 'Rectangular'
+subcategory: 'Generic Rectangular'
 catalogue number: '062'
 tags: [
     'xmass', 
