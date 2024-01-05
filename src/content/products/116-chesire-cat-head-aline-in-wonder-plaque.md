@@ -1,16 +1,16 @@
 ---
-title: 'VW Sports'
-description: 'VW Sports plaque.'
+title: 'Chesire Cat Head'
+description: 'Awesome model of the Chesire cat from the Alice in Wonderland cartoon. Great decoration piece. Great item for any movie fan.'
 category: 'Plaques, Wall Art & Signs'
-catalogue number: '051'
+catalogue number: '116'
 tags: [
-    'VW', 
-    'Plaque', 
-    'Volkswagon',
+    'Chesire cat', 
+    'Alice in wonderland',
+    'plaque',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/051.png'
+heroImage: '/images/116.png'
 ---
 
-Placeholder content for VW Sports.
+Placeholder content for Chesire Cat Head.

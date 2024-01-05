@@ -1,16 +1,16 @@
 ---
-title: 'VW Sports'
-description: 'VW Sports plaque.'
-category: 'Plaques, Wall Art & Signs'
-catalogue number: '051'
+title: 'Corpse Bride'
+description: 'Model of the Corpse Bride. Great decoration piece. Great item for any movie fan.'
+category: 'Straw Toppers'
+catalogue number: '120'
 tags: [
-    'VW', 
-    'Plaque', 
-    'Volkswagon',
+    'Corpse bride', 
+    'cool',
+    'Straw Topper', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/051.png'
+heroImage: '/images/120.png'
 ---
 
-Placeholder content for VW Sports.
+Placeholder content for Corpse Bride.

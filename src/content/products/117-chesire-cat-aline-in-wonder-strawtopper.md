@@ -1,16 +1,16 @@
 ---
-title: 'Jack O Pumpkin'
-description: 'Jack O Pumpkin. A mixture of Jack Skellington and a pumpkin. Awesome Straw topper for your tumblers. Great item for any movie fan'
+title: 'Chesire Cat'
+description: 'Awesome model of the Chesire cat from the Alice in Wonderland cartoon. Awesome Straw topper for your tumblers. Great item for any movie fan'
 category: 'Straw Toppers'
-catalogue number: '056'
+catalogue number: '117'
 tags: [
-    'NBC', 
-    'Jack Skellington',
+    'Chesire cat', 
+    'Alice in wonderland',
     'Straw Topper', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/056.png'
+heroImage: '/images/117.png'
 ---
 
-Placeholder content for Jack O Pumpkin.
+Placeholder content for Chesire Cat.
