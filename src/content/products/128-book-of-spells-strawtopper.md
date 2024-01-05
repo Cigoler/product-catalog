@@ -1,16 +1,16 @@
 ---
-title: 'Jack O Pumpkin'
-description: 'Jack O Pumpkin. A mixture of Jack Skellington and a pumpkin. Awesome Straw topper for your tumblers. Great item for any movie fan'
+title: 'Book of Spells'
+description: 'Spooky book of spells straw topper.'
 category: 'Straw Toppers'
-catalogue number: '056'
+catalogue number: '128'
 tags: [
-    'NBC', 
-    'Jack Skellington',
+    'Book of spells', 
+    'spooky',
     'Straw Topper', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/056.png'
+heroImage: '/images/128.png'
 ---
 
-Placeholder content for Jack O Pumpkin.
+Placeholder content for Book of Spells.

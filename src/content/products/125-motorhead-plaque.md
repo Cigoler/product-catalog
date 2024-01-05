@@ -1,16 +1,16 @@
 ---
-title: 'VW Sports'
-description: 'VW Sports plaque.'
+title: 'Motorhead'
+description: 'British rock band Motorhead lead by the legendry Lemmy. Celebrate the band with this cool plaque'
 category: 'Plaques, Wall Art & Signs'
-catalogue number: '051'
+catalogue number: '125'
 tags: [
-    'VW', 
+    'Motorhead', 
     'Plaque', 
-    'Volkswagon',
+    'Vmusic',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/051.png'
+heroImage: '/images/125.png'
 ---
 
-Placeholder content for VW Sports.
+Placeholder content for Motorhead.

@@ -1,16 +1,16 @@
 ---
-title: 'VW Sports'
-description: 'VW Sports plaque.'
+title: 'Grinch Head Original'
+description: 'The green monster who hates xmas and all the joy. Great decoration piece.'
 category: 'Plaques, Wall Art & Signs'
-catalogue number: '051'
+catalogue number: '122'
 tags: [
-    'VW', 
-    'Plaque', 
-    'Volkswagon',
+    'original', 
+    'grinch',
+    'Straw Topper',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/051.png'
+heroImage: '/images/122.png'
 ---
 
-Placeholder content for VW Sports.
+Placeholder content for Grinch Head Original.
