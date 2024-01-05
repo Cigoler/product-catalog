@@ -1,6 +1,6 @@
 ---
 title: 'Grinch Squad'
-description: 'The doll with a killer streak. The star of the Childs play series. Chuckie pops out in this Generic Round light.'
+description: 'The green monster who hates xmas and all the joy. Design pops out in this Generic Round light.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '110'

@@ -1,17 +1,17 @@
 ---
-title: 'Buffalo Bills - [Litho]'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Calgary Flames - [Litho]'
+description: 'Calgary Flames bauble. NHL Ice hockey team. Awesome bauble which is used with our generic bauble housing. You can have this so it is a Calgary logo either side or a logo on one and litho window of a player on the other. 2 players available Al MacInnis or jarome iginla.'
 category: 'Baubles, Globes & Ornaments'
 subcategory: 'Generic Bauble'
-catalogue number: '064'
+catalogue number: '112'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'Hockey', 
+    'Calgary',
+    'NHL', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/112.png'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Calgary Flames - [Litho].
