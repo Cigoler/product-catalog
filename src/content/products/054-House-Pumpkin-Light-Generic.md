@@ -1,6 +1,6 @@
 ---
 title: 'Creepy House'
-description: 'Great Halloween decoration from the generic pumpkin housing. Creepy House front.'
+description: 'Great Halloween decoration to be used with the Generic pumpkin housing. Creepy House front.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Pumpkin'
 catalogue number: '054'

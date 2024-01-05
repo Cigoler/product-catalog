@@ -1,6 +1,6 @@
 ---
 title: 'Grinch Head & Text'
-description: 'The green monster who hates xmass and all the joy. Cool xmass Grinch head & text plaque'
+description: 'The green monster who hates xmas and all the joy. Cool xmas Grinch head & text plaque'
 category: 'Plaques, Wall Art & Signs'
 catalogue number: '073'
 tags: [

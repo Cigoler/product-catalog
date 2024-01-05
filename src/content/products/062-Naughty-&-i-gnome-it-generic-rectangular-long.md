@@ -5,7 +5,7 @@ category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
 catalogue number: '062'
 tags: [
-    'xmass', 
+    'xmas', 
     'cute',
     'Lightbox', 
     ]

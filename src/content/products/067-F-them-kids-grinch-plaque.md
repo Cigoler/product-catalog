@@ -1,6 +1,6 @@
 ---
 title: 'F-Them Kids Grinch'
-description: 'The green monster who hates xmass and all the joy. Funny xmass F-Them kids Grinch plaque'
+description: 'The green monster who hates xmas and all the joy. Funny xmas F-Them kids Grinch plaque'
 category: 'Plaques, Wall Art & Signs'
 catalogue number: '067'
 tags: [
