@@ -1,9 +1,9 @@
 ---
-title: 'Naughty & I Gnome It'
-description: 'Naughty & I Gnome It LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
+title: 'Nice Until Proven Naughty'
+description: 'Nice Until Proven Naughty LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '062'
+catalogue number: '109'
 tags: [
     'xmass', 
     'cute',
@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/062.png'
+heroImage: '/images/109.png'
 ---
 
-Placeholder content for Naughty & I Gnome It.
+Placeholder content for Nice Until Proven Naughty.

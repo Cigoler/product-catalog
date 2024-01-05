@@ -1,17 +1,17 @@
 ---
-title: 'F-Them Kids Grinch'
-description: 'The green monster who hates xmass and all the joy. Funny xmass F-Them kids Grinch. One that is used with the generic rectangular - Long box.'
+title: 'Xmas Gnome Gonk 6'
+description: 'Cute gnome gonk holding a candy cane bringing some festive joy. Cool light which will light up any xmas decoration display. To be used with the generic rectangular - High box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '068'
+catalogue number: '108'
 tags: [
-    'xmass', 
-    'grinch',
+    'xmas', 
+    'gnome',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/068.png'
+heroImage: '/images/108.png'
 ---
 
-Placeholder content for F-Them Kids Grinch.
+Placeholder content for Xmas Gnome Gonk 6.
