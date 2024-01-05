@@ -1,17 +1,17 @@
 ---
-title: 'Chuckie'
+title: 'Grinch Squad'
 description: 'The doll with a killer streak. The star of the Childs play series. Chuckie pops out in this Generic Round light.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
-catalogue number: '063'
+catalogue number: '110'
 tags: [
-    'horror', 
-    'chuckie',
-    'Lightbox', 
+    'grinch',
+    'xmas',
+    'Lightbox',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/063.png'
+heroImage: '/images/110.png'
 ---
 
-Placeholder content for Chuckie.
+Placeholder content for Grinch Squad.
