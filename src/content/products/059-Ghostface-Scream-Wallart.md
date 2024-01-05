@@ -13,4 +13,4 @@ pubDate: '2023-11-20'
 heroImage: '/images/059.png'
 ---
 
-Placeholder content for Ghostface Scream. 
+Placeholder content for Ghostface Scream.
