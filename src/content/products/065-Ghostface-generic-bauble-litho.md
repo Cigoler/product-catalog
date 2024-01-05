@@ -1,5 +1,5 @@
 ---
-title: 'Ghostface - Litho'
+title: 'Ghostface - [Litho]'
 description: 'Awesome bauble which is used with our generic bauble housing. Ghosface from the popular Scream movie franchise. Ghostface one side and a litho window on the other.'
 category: 'Baubles, Globes & Ornaments'
 subcategory: 'Generic Bauble'

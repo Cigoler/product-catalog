@@ -1,8 +1,8 @@
 ---
-title: 'F-Them Kids Grinch'
-description: 'The green monster who hates xmass and all the joy. Funny xmass F-Them kids Grinch plaque'
+title: 'Grinch Head & Text'
+description: 'The green monster who hates xmass and all the joy. Cool xmass Grinch head & text plaque'
 category: 'Plaques, Wall Art & Signs'
-catalogue number: '067'
+catalogue number: '073'
 tags: [
     'Grinch', 
     'Plaque', 
@@ -10,6 +10,6 @@ tags: [
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/067.png'
+heroImage: '/images/073.png'
 ---
-Placeholder content for F-Them Kids Grinch.
+Placeholder content for Grinch Head & Text.

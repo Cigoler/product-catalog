@@ -1,16 +1,16 @@
 ---
-title: 'Die Hard - [Litho]'
-description: ''A great piece for any Mickey Mouse fan. Included is a bauble for your xmass tree or a globe for a show piece all year round. Come with a stand and topper which makes the finished piece look great'.'
+title: 'Mario Bauble - Globe - [Litho]'
+description: ''A great piece for any Mario fan. Included is a bauble for your xmass tree or a globe for a show piece all year round. Comes with various Mario themed stands and Mario hat toppers which makes the finished piece look great'.'
 category: 'Baubles, Globes & Ornaments'
-catalogue number: '069'
+catalogue number: '072'
 tags: [
-    'bauble', 
-    'die hard',
+    'Mario', 
+    'globe',
     'litho', 
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/069.png'
+heroImage: '/images/072.jpg'
 ---
 
-Placeholder content for Die Hard - Litho.
+Placeholder content for Mario Bauble - Globe - [Litho].

@@ -1,8 +1,8 @@
 ---
-title: 'Die Hard - Litho'
-description: 'Is it or is it not an xmass movie. Die hard fans you decide. Xmas litho bauble. 6 images available. Also included is a table top version which uses a tealight.'
+title: 'Mickey Bauble - Initials'
+description: 'A cool addition to any Mickey Mouse fans tree. Personalised the baubles with there intial or name. Different varitions available for each intial with also both embossed and flat.'
 category: 'Baubles, Globes & Ornaments'
-catalogue number: '069'
+catalogue number: '074'
 tags: [
     'bauble', 
     'die hard',
@@ -10,7 +10,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/069.png'
+heroImage: '/images/074.jpg'
 ---
 
-Placeholder content for Die Hard - Litho.
+Placeholder content for Mickey Bauble - Initials.
