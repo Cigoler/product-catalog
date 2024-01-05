@@ -1,9 +1,9 @@
 ---
 title: 'Mass Effect'
-description: 'Naughty & I Gnome It LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
+description: 'Mass Effect logo from the popular gaming series. One that is used with the generic rectangular - Long box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '062'
+catalogue number: '098'
 tags: [
     'gaming', 
     'mass effect',
@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/062.png'
+heroImage: '/images/098.png'
 ---
 
 Placeholder content for Mass Effect.

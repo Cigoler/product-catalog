@@ -1,17 +1,17 @@
 ---
-title: 'Chuckie'
-description: 'The doll with a killer streak. The star of the Childs play series. Chuckie pops out in this Generic Round light.'
+title: 'Tribal Face'
+description: 'Simple but cool tribal face. Design pops out in this Generic Round light.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
-catalogue number: '063'
+catalogue number: '100'
 tags: [
-    'horror', 
-    'chuckie',
+    'tribal', 
+    'face',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/063.png'
+heroImage: '/images/100.png'
 ---
 
-Placeholder content for Chuckie.
+Placeholder content for Tribal Face.

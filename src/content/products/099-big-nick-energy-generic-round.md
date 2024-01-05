@@ -1,17 +1,17 @@
 ---
-title: 'Chuckie'
-description: 'The doll with a killer streak. The star of the Childs play series. Chuckie pops out in this Generic Round light.'
+title: 'Big Nick Energy'
+description: 'Simple but cool xmas Big Nick Energy light front. Saint Nick pops out in this Generic Round light.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
-catalogue number: '063'
+catalogue number: '099'
 tags: [
-    'horror', 
-    'chuckie',
+    'xmas', 
+    'santa',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/063.png'
+heroImage: '/images/099.png'
 ---
 
-Placeholder content for Chuckie.
+Placeholder content for Big Nick Energy.

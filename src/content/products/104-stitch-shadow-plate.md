@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'Stitch'
+description: 'Stitch shadow plate. Turn the lights off then light up a candle and watch the magic. To be used with the Shadow light holder'
 category: 'Shadow Plates'
-catalogue number: '047'
+catalogue number: '103'
 tags: [
-    'PS1', 
-    '',
-    'Keyring', 
+    'F-You', 
+    'cool',
+    'Shadow', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/103.jpg'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Stitch.
