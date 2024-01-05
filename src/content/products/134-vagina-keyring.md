@@ -1,16 +1,17 @@
 ---
 title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+description: 'Vagina Keyring'
 category: 'Adult'
-catalogue number: '047'
+subcategory: 'Keyrings'
+catalogue number: '134'
 tags: [
-    'PS1', 
-    '',
-    'Keyring', 
+    'Funny', 
+    'Vagina',
+    'keyring',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/134.png'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Vagina.

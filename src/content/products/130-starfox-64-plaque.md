@@ -1,16 +1,16 @@
 ---
-title: 'VW Sports'
-description: 'VW Sports plaque.'
+title: 'Starfox 64'
+description: 'A game from the popular Nintendo 64 console. Starfox64.'
 category: 'Plaques, Wall Art & Signs'
-catalogue number: '051'
+catalogue number: '130'
 tags: [
-    'VW', 
+    'starfox', 
     'Plaque', 
-    'Volkswagon',
+    'nintendo 64',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/051.png'
+heroImage: '/images/130.png'
 ---
 
-Placeholder content for VW Sports.
+Placeholder content for Starfox 64.

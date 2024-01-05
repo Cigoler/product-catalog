@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'Ursula Head'
+description: 'The deepsea evil Queen Ursula from the Little Mermaid. A cool keyring for any fan of the movie'
 category: 'Keyrings'
-catalogue number: '047'
+catalogue number: '135'
 tags: [
-    'PS1', 
-    '',
+    'ursula', 
+    'little mermaid',
     'Keyring', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/135.png'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Ursula Head.

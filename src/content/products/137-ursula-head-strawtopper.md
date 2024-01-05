@@ -1,16 +1,16 @@
 ---
-title: 'Jack O Pumpkin'
-description: 'Jack O Pumpkin. A mixture of Jack Skellington and a pumpkin. Awesome Straw topper for your tumblers. Great item for any movie fan'
+title: 'Ursula Head'
+description: 'The deepsea evil Queen Ursula from the Little Mermaid. A cool strawtopper for any fan of the movie'
 category: 'Straw Toppers'
-catalogue number: '056'
+catalogue number: '137'
 tags: [
-    'NBC', 
-    'Jack Skellington',
-    'Straw Topper', 
+    'ursula', 
+    'straw topper',
+    'little mermaid', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/056.png'
+heroImage: '/images/137.png'
 ---
 
-Placeholder content for Jack O Pumpkin.
+Placeholder content for Ursula Head.

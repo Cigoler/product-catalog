@@ -1,16 +1,16 @@
 ---
-title: 'VW Sports'
-description: 'VW Sports plaque.'
+title: 'Jack O Xmas'
+description: 'Jack O Xmas. Jack Skellington with an Xmas hat. Cool wall decoration. Great item for any movie fan'
 category: 'Plaques, Wall Art & Signs'
-catalogue number: '051'
+catalogue number: '132'
 tags: [
-    'VW', 
+    'Jack o xmas', 
     'Plaque', 
-    'Volkswagon',
+    'NBC',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/051.png'
+heroImage: '/images/132.png'
 ---
 
-Placeholder content for VW Sports.
+Placeholder content for Jack O Xmas.

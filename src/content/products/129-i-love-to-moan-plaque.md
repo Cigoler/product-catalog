@@ -1,6 +1,6 @@
 ---
 title: 'I Love To Moan'
-description: 'VW Sports plaque.'
+description: 'I love to Moan but I am a Machine wall plaque. We all know someone who loves to moan but just carries on.'
 category: 'Plaques, Wall Art & Signs'
 catalogue number: '129'
 tags: [

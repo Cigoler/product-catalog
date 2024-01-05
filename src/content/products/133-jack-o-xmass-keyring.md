@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'Jack O Xmas'
+description: 'Jack O Xmas. Jack Skellington with an Xmas hat. Cool keyring. Great item for any movie fan'
 category: 'Keyrings'
-catalogue number: '047'
+catalogue number: '133'
 tags: [
-    'PS1', 
-    '',
-    'Keyring', 
+    'Jack o xmas', 
+    'keyring', 
+    'NBC',
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/133.png'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Jack O Xmas.
