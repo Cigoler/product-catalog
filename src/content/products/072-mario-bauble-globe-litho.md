@@ -1,6 +1,6 @@
 ---
-title: 'Die Hard - Litho'
-description: 'Is it or is it not an xmass movie. Die hard fans you decide. Xmas litho bauble. 6 images available. Also included is a table top version which uses a tealight.'
+title: 'Die Hard - [Litho]'
+description: ''A great piece for any Mickey Mouse fan. Included is a bauble for your xmass tree or a globe for a show piece all year round. Come with a stand and topper which makes the finished piece look great'.'
 category: 'Baubles, Globes & Ornaments'
 catalogue number: '069'
 tags: [
