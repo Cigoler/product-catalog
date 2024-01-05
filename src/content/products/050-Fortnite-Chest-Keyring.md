@@ -1,7 +1,7 @@
 ---
 title: 'Fortnite Chest'
 description: 'Fortnites iconic golden chest. Turned into a cool keyring. Ideal for any Fornite fans bag or keys'
-category: 'Keyring'
+category: 'Keyrings'
 catalogue number: '050'
 tags: [
     'Keyring', 

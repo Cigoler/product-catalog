@@ -1,7 +1,7 @@
 ---
 title: 'VW Camper'
 description: 'VW Camper keyring. Retro VW campervan turned into a keyring. Perfect for any VW enthusiast'
-category: 'Keyring'
+category: 'Keyrings'
 catalogue number: '052'
 tags: [
     'Keyring', 

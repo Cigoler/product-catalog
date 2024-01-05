@@ -1,7 +1,7 @@
 ---
 title: 'Halloween'
 description: 'Halloween decoration plaque.'
-category: 'Plaque, Wall Art & Signs'
+category: 'Plaques, Wall Art & Signs'
 catalogue number: '022'
 tags: [
     'Pumpkin', 

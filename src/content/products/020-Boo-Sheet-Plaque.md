@@ -1,7 +1,7 @@
 ---
 title: 'Boo Sheet'
 description: 'Funny Boo Sheet ghost plaque. Pefect deco for halloween. Embossed or Flat version available.'
-category: 'Plaque, Wall Art & Signs'
+category: 'Plaques, Wall Art & Signs'
 catalogue number: '020'
 tags: [
     'Boo', 

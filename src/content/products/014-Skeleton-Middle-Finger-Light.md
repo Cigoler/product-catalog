@@ -1,7 +1,7 @@
 ---
 title: 'Skeleton Middle Finger'
 description: 'Who does not like flipping the bird. Make someones day with this funny middle finger Skeleton LED light'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '014'
 tags: [

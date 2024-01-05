@@ -1,7 +1,7 @@
 ---
 title: 'Walt Jabsco'
 description: 'Walt Jabsco LED light. The iconic 2 tone character from the SKA music movement '
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '043'
 tags: [

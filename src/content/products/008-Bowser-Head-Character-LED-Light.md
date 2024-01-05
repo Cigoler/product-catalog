@@ -1,7 +1,7 @@
 ---
 title: 'Bowser Head Character LED Light'
 description: 'Bowser Head LED light. Made up of Mario items. A great addition to any Mario fans game room office or bedroom'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '008'
 tags: [

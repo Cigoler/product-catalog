@@ -1,7 +1,7 @@
 ---
 title: 'PS1'
 description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
-category: 'Flexi'
+category: 'Flexis'
 catalogue number: '047'
 tags: [
     'PS1', 

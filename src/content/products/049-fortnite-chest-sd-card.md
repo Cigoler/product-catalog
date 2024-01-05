@@ -1,7 +1,7 @@
 ---
 title: 'Fortnite Chest Standard SD'
 description: 'Fortnites iconic golden chest. Lift the lid to reveal the loot inside. Stores 16 standard SD cards'
-category: 'SD Card Holder'
+category: 'SD Card Holders'
 catalogue number: '049'
 tags: [
     'SD Card', 

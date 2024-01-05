@@ -1,7 +1,7 @@
 ---
 title: 'FNAF Bonnie'
 description: 'Five nights at Freddys light front. Freddy and the animatronic gang hit the cinemas in 2023.'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '034'
 tags: [

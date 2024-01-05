@@ -1,7 +1,7 @@
 ---
 title: 'Edmonton Oilers'
 description: 'Edmonton Oilers light front. NHL Ice hockey team.'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '040'
 tags: [

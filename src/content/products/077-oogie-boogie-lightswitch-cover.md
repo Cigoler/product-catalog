@@ -1,7 +1,7 @@
 ---
 title: 'Grinch Head & Text - Litho'
 description: 'The monster who hates xmass. A modern icon of the festive period. Available with a red solid heart or also available with a litho heart. 7 optional litho hearts included. '
-category: 'Light Switch Cover'
+category: 'Light Switch Covers'
 catalogue number: '061'
 tags: [
     'grinch', 

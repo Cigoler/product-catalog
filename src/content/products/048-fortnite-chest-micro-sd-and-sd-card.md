@@ -1,7 +1,7 @@
 ---
 title: 'Fortnite Chest Micro & Standard SD'
 description: 'Fortnites iconic golden chest. Lift the lid to reveal the loot inside. Stores 8 micro SD & 8 standard SD cards'
-category: 'SD Card Holder'
+category: 'SD Card Holders'
 catalogue number: '048'
 tags: [
     'SD Card', 

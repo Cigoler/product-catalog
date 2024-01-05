@@ -1,7 +1,7 @@
 ---
 title: 'Star Wars Text'
 description: 'Simple but iconic. Star Wars text LED light. A great addition to any Star wars fans collection.'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '021'
 tags: [

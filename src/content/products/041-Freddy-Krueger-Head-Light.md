@@ -1,7 +1,7 @@
 ---
 title: 'Freddy Krueger Head'
 description: 'Freddy Krueger LED light. The iconic horror character from the Nightmare on Elm street movie franchise. Comes with a Nightmare on Elm ST stand. '
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '041'
 tags: [

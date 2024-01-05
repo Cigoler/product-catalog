@@ -1,7 +1,7 @@
 ---
 title: 'IT The Clown Head'
 description: 'We all float down here. Iconic clown from the horror series IT the Clown. This LED light box is a great gift for horror fans.'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '024'
 tags: [

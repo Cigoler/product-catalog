@@ -1,7 +1,7 @@
 ---
 title: 'Spiderman Head Light'
 description: 'Spiderman head light. A great addition to any Spidey fans game room office or bedroom'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '002'
 tags: [

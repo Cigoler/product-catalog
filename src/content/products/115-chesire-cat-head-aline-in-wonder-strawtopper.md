@@ -1,7 +1,7 @@
 ---
 title: 'Jack O Pumpkin'
 description: 'Jack O Pumpkin. A mixture of Jack Skellington and a pumpkin. Awesome Straw topper for your tumblers. Great item for any movie fan'
-category: 'Straw Topper'
+category: 'Straw Toppers'
 catalogue number: '056'
 tags: [
     'NBC', 

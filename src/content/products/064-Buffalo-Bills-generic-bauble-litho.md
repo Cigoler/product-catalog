@@ -1,7 +1,7 @@
 ---
 title: 'Buffalo Bills - Litho'
 description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
-category: 'Bauble, Globes & Ornaments'
+category: 'Baubles, Globes & Ornaments'
 subcategory: 'Generic Bauble'
 catalogue number: '064'
 tags: [

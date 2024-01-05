@@ -1,7 +1,7 @@
 ---
 title: 'Mario Kart'
 description: 'Mario Kart LED light. A great addition to any Mario fans game room office or bedroom'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '026'
 tags: [

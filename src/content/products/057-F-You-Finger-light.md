@@ -1,7 +1,7 @@
 ---
 title: 'F You Finger'
 description: 'F You Finger LED light. Funny flipping the bird light. Who doesn't like giving the middle finger.'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '057'
 tags: [

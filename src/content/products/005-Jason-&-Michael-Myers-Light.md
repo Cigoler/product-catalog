@@ -1,7 +1,7 @@
 ---
 title: 'Jason & Michael Myers Light'
 description: 'Jason & Michael Myers Light. A great addition to any Horror fans game room office or bedroom'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '005'
 tags: [

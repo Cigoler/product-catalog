@@ -1,7 +1,7 @@
 ---
 title: 'Grogu'
 description: 'Grogu LED light. The iconic character from the Mandalorian TV series. Grogu AKA baby Yoda. '
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '044'
 tags: [

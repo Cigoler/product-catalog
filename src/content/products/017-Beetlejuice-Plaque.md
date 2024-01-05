@@ -1,7 +1,7 @@
 ---
 title: 'Beetlejuice Plaque'
 description: 'The quirky character from the dead. Beetlejuice. Awesome plaque which has an embossed and flat option. The choice is yours. Great item for any movie fan'
-category: 'Plaque, Wall Art & Signs'
+category: 'Plaques, Wall Art & Signs'
 catalogue number: '017'
 tags: [
     'Beetlejuice', 

@@ -1,7 +1,7 @@
 ---
 title: 'Jack O Pumpkin'
 description: 'The star of the show from The Nightmare Before Xmas with a halloween twist. Great plaque available in both flat or embossed version'
-category: 'Plaque, Wall Art & Signs'
+category: 'Plaques, Wall Art & Signs'
 catalogue number: '019'
 tags: [
     'NBC', 

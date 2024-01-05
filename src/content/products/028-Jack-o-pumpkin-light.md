@@ -1,7 +1,7 @@
 ---
 title: 'Jack O Pumpkin'
 description: 'Jack O Pumpkin LED light. A great addition to any NBC fans game room office or bedroom. Great decorative item for halloween.'
-category: 'LED Light Box'
+category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '028'
 tags: [

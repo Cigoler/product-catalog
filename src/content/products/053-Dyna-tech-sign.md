@@ -1,7 +1,7 @@
 ---
 title: 'Dyna Tech'
 description: 'Dyna Tech plaque.'
-category: 'Plaque, Wall Art & Signs'
+category: 'Plaques, Wall Art & Signs'
 catalogue number: '053'
 tags: [
     'Dyna tech', 

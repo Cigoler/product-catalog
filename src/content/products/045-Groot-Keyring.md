@@ -1,7 +1,7 @@
 ---
 title: 'Grogu'
 description: 'Cute little keyring. Baby Groot from the Marvel Guardians of the Galaxy and Avengers movies'
-category: 'Keyring'
+category: 'Keyrings'
 catalogue number: '045'
 tags: [
     'Baby Groot', 
