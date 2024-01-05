@@ -1,17 +1,17 @@
 ---
-title: 'F-Them Kids Grinch'
-description: 'The green monster who hates xmas and all the joy. Funny xmas F-Them kids Grinch. One that is used with the generic rectangular - Long box.'
+title: 'Merry Xmas Text'
+description: 'Merry xmas text. Simple yet cool light which will light up any xmas decoration display. To be used with the generic rectangular - Long box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '068'
+catalogue number: '079'
 tags: [
     'xmas', 
-    'grinch',
+    'cute',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/068.png'
+heroImage: '/images/079.png'
 ---
 
-Placeholder content for F-Them Kids Grinch.
+Placeholder content for Merry Xmas Text.

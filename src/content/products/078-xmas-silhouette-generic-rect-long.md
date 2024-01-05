@@ -1,17 +1,17 @@
 ---
-title: 'F-Them Kids Grinch'
-description: 'The green monster who hates xmas and all the joy. Funny xmas F-Them kids Grinch. One that is used with the generic rectangular - Long box.'
+title: 'Xmas Silhouette'
+description: 'Santa and his reindeers bringing some festive joy. Cool light which will light up any xmas decoration display. To be used with the generic rectangular - Long box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '068'
+catalogue number: '078'
 tags: [
     'xmas', 
-    'grinch',
+    'gSilhoutte',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/068.png'
+heroImage: '/images/078.png'
 ---
 
-Placeholder content for F-Them Kids Grinch.
+Placeholder content for Xmas Silhouette.

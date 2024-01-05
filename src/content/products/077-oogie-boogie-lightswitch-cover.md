@@ -1,16 +1,16 @@
 ---
-title: 'Grinch Head & Text - Litho'
-description: 'The monster who hates xmas. A modern icon of the festive period. Available with a red solid heart or also available with a litho heart. 7 optional litho hearts included. '
+title: 'Oogie Boogie'
+description: 'The mean character from the popular NBC movie. Here to funk up your plain light switch cover.Flat and embossed version included. '
 category: 'Light Switch Covers'
-catalogue number: '061'
+catalogue number: '077'
 tags: [
-    'grinch', 
-    'xmas',
-    'Lightbox', 
+    'NBC', 
+    'Bedroom',
+    'Loogie boogie', 
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/061.jpg'
+heroImage: '/images/077.jpeg'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Oogie Boogie.

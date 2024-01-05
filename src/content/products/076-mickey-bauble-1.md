@@ -1,16 +1,16 @@
 ---
-title: 'Die Hard - Litho'
-description: 'Is it or is it not an xmas movie. Die hard fans you decide. Xmas litho bauble. 6 images available. Also included is a table top version which uses a tealight.'
+title: 'Mickey Bauble 2'
+description: 'Great and simple Mickey Mouse silhouette bauble. The perfect way to glam up your xmas tree.'
 category: 'Baubles, Globes & Ornaments'
-catalogue number: '069'
+catalogue number: '076'
 tags: [
-    'bauble', 
-    'die hard',
-    'litho', 
+    'bMickey', 
+    'cute',
+    'xmas', 
     ]
 featured: true
 pubDate: '2023-11-20'
-heroImage: '/images/069.png'
+heroImage: '/images/076.png'
 ---
 
-Placeholder content for Die Hard - Litho.
+Placeholder content for Mickey Bauble 2.

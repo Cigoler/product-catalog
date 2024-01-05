@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'F-Bomb'
+description: 'Some times all you need to relieve a bit of stress is a good ol F-Bomb or is that colleague at work annoying you again. Then why not plant them with an F-Bomb. Also available as an ornament.'
 category: 'Keyrings'
-catalogue number: '047'
+catalogue number: '081'
 tags: [
-    'PS1', 
-    '',
+    'F-you', 
+    'funny',
     'Keyring', 
     ]
 featured: true
-pubDate: '2023-10-20'
-heroImage: '/images/047.jpg'
+pubDate: '2023-11-20'
+heroImage: '/images/081.png'
 ---
 
-Placeholder content for PS1.
+Placeholder content for F-Bomb.
