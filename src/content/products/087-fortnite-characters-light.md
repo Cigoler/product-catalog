@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Fortnite Characters'
+description: 'Does this one need an introduction ? If you have a child that games. Chances are you have been stung for V Bucks at some. Great light for a gaming room or bedroom. Features Fortnite silhouettes of characters.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '087'
 tags: [
-    'ghostface', 
-    'horror',
+    'fortntie', 
+    'gaming',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/087.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Fortnite Characters.

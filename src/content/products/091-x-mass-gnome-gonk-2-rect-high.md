@@ -1,17 +1,17 @@
 ---
-title: 'Naughty & I Gnome It'
-description: 'Naughty & I Gnome It LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
+title: 'Xmas Gnome Gonk 2'
+description: 'Cute gnome gonk holding a present bringing some festive joy. Cool light which will light up any xmas decoration display. To be used with the generic rectangular - High box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '062'
+catalogue number: '091'
 tags: [
-    'xmass', 
-    'cute',
+    'xmas', 
+    'gnome',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/062.png'
+heroImage: '/images/091.png'
 ---
 
-Placeholder content for Naughty & I Gnome It.
+Placeholder content for Xmas Gnome Gonk 2.

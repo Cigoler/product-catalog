@@ -1,17 +1,17 @@
 ---
-title: 'Naughty & I Gnome It'
-description: 'Naughty & I Gnome It LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
+title: 'Calories Do Not Count'
+description: 'Funny calories do not count light. Simple but cool. One that is used with the generic rectangular - High box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '062'
+catalogue number: '096'
 tags: [
-    'xmass', 
-    'cute',
+    'Funny', 
+    '',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/062.png'
+heroImage: '/images/096.png'
 ---
 
-Placeholder content for Naughty & I Gnome It.
+Placeholder content for Calories Do Not Count.

@@ -1,17 +1,17 @@
 ---
-title: 'F-Them Kids Grinch'
-description: 'The green monster who hates xmass and all the joy. Funny xmass F-Them kids Grinch. One that is used with the generic rectangular - Long box.'
+title: 'Prime Bottle'
+description: 'A drink which sent the kids wild and the parents trying to find it - High box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
-catalogue number: '068'
+catalogue number: '093'
 tags: [
-    'xmass', 
-    'grinch',
+    'prime', 
+    'cool',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/068.png'
+heroImage: '/images/093.png'
 ---
 
-Placeholder content for F-Them Kids Grinch.
+Placeholder content for Prime Bottle.

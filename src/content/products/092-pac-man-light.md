@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Pac Man'
+description: 'Retro gaming icon Pac Man. A cult classic which would make a great centre piece for any gaming room.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '092'
 tags: [
-    'ghostface', 
-    'horror',
+    'Pac man', 
+    'Gaming',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/092.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Pac Man.

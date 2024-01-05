@@ -5,7 +5,7 @@ category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '083'
 tags: [
-    'gPac man', 
+    'Pac man', 
     'Gaming',
     'Lightbox', 
     ]

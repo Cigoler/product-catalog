@@ -1,16 +1,17 @@
 ---
-title: 'Jack O Pumpkin'
-description: 'Jack O Pumpkin. A mixture of Jack Skellington and a pumpkin. Awesome Straw topper for your tumblers. Great item for any movie fan'
+title: 'Vagina'
+description: 'Vagina straw topper for a tumbler'
 category: 'Adult'
-catalogue number: '056'
+subcategory: 'Straw Topper'
+catalogue number: '090'
 tags: [
-    'NBC', 
-    'Jack Skellington',
+    'Funny', 
+    'Vagina',
     'Straw Topper', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/056.png'
+heroImage: '/images/090.jpg'
 ---
 
-Placeholder content for Jack O Pumpkin.
+Placeholder content for Vagina.

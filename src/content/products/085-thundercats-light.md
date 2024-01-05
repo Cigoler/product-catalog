@@ -1,6 +1,6 @@
 ---
 title: 'Thundercats'
-description: 'A sign .'
+description: 'Thunder Thunder Thunder cats. 80s cartoon classic. Iconic symbol of Lion O and the gang .'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '085'

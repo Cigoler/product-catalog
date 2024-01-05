@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Charizard - Pokeball - [Stand]'
+description: 'Pokeball with the evolved fire Pokemon Charizard. Great edition to any Pokemon fans collection. Comes with a Pokemon text stand. Flat and Embossed version available of the stand'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '088'
 tags: [
-    'ghostface', 
-    'horror',
+    'pokemon', 
+    'charizard',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/088.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Charizard - Pokeball.

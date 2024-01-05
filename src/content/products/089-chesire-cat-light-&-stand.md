@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Chesire Cat - [Stand]'
+description: 'Awesome light of the Chesire cat from the Alice in Wonderland cartoon. Also included is a cool stand with Alice and the magic potion.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '089'
 tags: [
-    'ghostface', 
-    'horror',
+    'chesire cat', 
+    'alice in wonderland',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/089.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Chesire Cat - [Stand].

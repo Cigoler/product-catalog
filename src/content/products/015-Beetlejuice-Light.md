@@ -1,5 +1,5 @@
 ---
-title: 'Beetlejuice'
+title: 'Beetlejuice - [Stand]'
 description: 'The quirky character from the dead. Beetlejuice. Awesome light box with an optional sandworm stand. Great item for any movie fan'
 category: 'LED Light Boxes'
 subcategory: 'Standard'

@@ -1,17 +1,17 @@
 ---
-title: 'Chuckie'
-description: 'The doll with a killer streak. The star of the Childs play series. Chuckie pops out in this Generic Round light.'
+title: 'Grinch Head With Hat'
+description: 'The green monster who hates xmas and all the joy. Grinch pops out in this Generic Round light.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
-catalogue number: '063'
+catalogue number: '097'
 tags: [
-    'horror', 
-    'chuckie',
+    'grinch', 
+    'xmas',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/063.png'
+heroImage: '/images/097.png'
 ---
 
-Placeholder content for Chuckie.
+Placeholder content for Grinch Head With Hat.
