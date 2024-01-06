@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Little Mermaid Ariel & Flounder'
+description: 'Under the sea. Under the sea. Cool lightbox of Ariel & Flounder from the Little mermaid movie. A great light for any fan of the movies.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '171'
 tags: [
-    'ghostface', 
-    'horror',
+    'Little mermaid', 
+    'flounder',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/171.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Little Mermaid Ariel & Flounder.

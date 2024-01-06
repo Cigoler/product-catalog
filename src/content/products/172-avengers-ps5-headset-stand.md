@@ -1,16 +1,16 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Avengers Themed - PS5'
+description: 'Are you always looking for somewere or do you know a PS5 owner who just leaves there headset laying around. Well why not treat them to this PS5 Avengers themed headset stand. Clips onto the top of the PS5.'
 category: 'Headset Stands'
-catalogue number: '064'
+catalogue number: '172'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'ps5', 
+    'avengers',
+    'headset', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/172.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Avengers Themed - PS5.

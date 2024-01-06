@@ -1,16 +1,16 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Tree Topper - Adaptor'
+description: 'Turn any of our plaques into an xmas tree topper. Simply glue the adaptor onto the back and let your tree glow. 2 adaptors available closed and opened top.'
 category: 'Adaptors'
-catalogue number: '064'
+catalogue number: '174'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'adaptor', 
+    'plaque',
+    'tree topper', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/174.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Tree Topper - Adaptor.
