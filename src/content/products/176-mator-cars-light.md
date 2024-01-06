@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Mator'
+description: 'Lightning McQueens cool and funny sidekick Mator from the popular Cars movies. An awesome light for any fan'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '176'
 tags: [
-    'ghostface', 
-    'horror',
+    'cars', 
+    'Mator',
     'Lightbox', 
     ]
 featured: true
-pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+pubDate: '2024-01-01'
+heroImage: '/images/176.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Mator.

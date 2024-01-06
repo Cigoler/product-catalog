@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Lightning McQueen'
+description: 'Start your enginessss. Lightning McQueen from the popular Cars movies. An awesome light for any fan'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '175'
 tags: [
-    'ghostface', 
-    'horror',
+    'cars', 
+    'lightning mcqueen',
     'Lightbox', 
     ]
 featured: true
-pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+pubDate: '2024-01-01'
+heroImage: '/images/175.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Lightning McQueen.
