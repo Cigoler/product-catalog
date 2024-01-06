@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Mario Mushroom'
+description: 'Simple but cool Mario mushroom light. Mushroom power up is a great addition for any Mario fan.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '161'
 tags: [
-    'ghostface', 
-    'horror',
+    'Mario', 
+    'mushroom',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/161.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Mario Mushroom.

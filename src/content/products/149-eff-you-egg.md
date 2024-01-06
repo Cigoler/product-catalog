@@ -1,16 +1,16 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Eff You'
+description: 'What better way to pass the day than flipping the bird. Suprise egg once cracked it reveals a middle finger. A couple of options available. Finger with egg bas as stand. Egg on it's own and finger on it's own so you can pause the print and add the finger or a finger printed inside with supports. Pause the print to add keyring hoop..'
 category: 'Eggs'
-catalogue number: '064'
+catalogue number: '149'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'eff you', 
+    'suprise',
+    'egg', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/149.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Eff You.

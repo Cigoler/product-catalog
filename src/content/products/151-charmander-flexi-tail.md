@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'Charmander'
+description: 'Charmander Pokemon with a flexi tail. Tail can also be removed.'
 category: 'Flexis'
-catalogue number: '047'
+catalogue number: '151'
 tags: [
-    'PS1', 
-    '',
-    'Keyring', 
+    'flexi', 
+    'pokemon',
+    'charmander', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/151.jpg'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Charmander.

@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Kamak'
+description: 'One of Bowsers advisors who pops up in the Mario franchise of games is Kamak. A great light for any fan or gaming room.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '167'
 tags: [
-    'ghostface', 
-    'horror',
+    'Mario', 
+    'kamak',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/167.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Kamak.

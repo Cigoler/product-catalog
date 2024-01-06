@@ -1,16 +1,16 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Poop Emoji Toilet Roll Holder'
+description: 'Were number 2 were number 2. Cool Poop Emoji toilet roll holder with hidden mounting holes. Quick roll change just pop out the centre roller then apply new roll and drop back in. 2 centre rollers available. One is plain and one with Emojis..'
 category: 'Random'
-catalogue number: '064'
+catalogue number: '150'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'poop emoji', 
+    'toilet roll',
+    'funny', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/150.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Poop Emoji Toilet Roll Holder.

@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Kirkby'
+description: 'A must have light for any Kirkby fan. Great piece for any game room.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '159'
 tags: [
-    'ghostface', 
-    'horror',
+    'kirkby', 
+    'cute',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/159.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Kirkby.

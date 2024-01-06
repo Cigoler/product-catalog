@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'Prime'
+description: 'A drink which sent the kids wild and the parents trying to find it - Great item for keys and bags with plenty of alternative options available on styles.'
 category: 'Keyrings'
-catalogue number: '047'
+catalogue number: '156'
 tags: [
-    'PS1', 
+    'prime', 
     '',
     'Keyring', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/156.jpg'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Prime.

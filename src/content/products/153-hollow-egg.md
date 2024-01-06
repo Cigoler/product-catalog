@@ -1,16 +1,16 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Hollow Egg'
+description: 'Everyone loves a suprise. Great way to give give someone a hidden suprise. All you have to do is pause the print and pop something in the egg and continue..'
 category: 'Eggs'
-catalogue number: '064'
+catalogue number: '153'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'egg', 
+    'suprise',
+    'cool', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/153.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Hollow Egg.

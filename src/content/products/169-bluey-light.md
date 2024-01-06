@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Bluey'
+description: 'A light from the popular kids TV Show Bluey. A great light for any fan of the show.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '169'
 tags: [
-    'ghostface', 
-    'horror',
+    'cartoon', 
+    'bluey',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/169.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Bluey.

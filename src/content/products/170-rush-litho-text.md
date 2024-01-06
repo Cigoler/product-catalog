@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream - [Litho]'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Rush Text - [Litho]'
+description: '80s Canadian Rock trio Rush. They have stood the test of time. A great time item to appreciate there work. Rush text which is made from a series of litho images of the band.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '170'
 tags: [
-    'ghostface', 
-    'horror',
+    'rush', 
+    'rock',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/170.jpg'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Rush Text - [Litho].

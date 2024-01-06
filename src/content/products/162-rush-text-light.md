@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Rush Text'
+description: '80s Canadian Rock trio Rush. They have stood the test of time. A great light for any fan.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '162'
 tags: [
-    'ghostface', 
-    'horror',
+    'rush', 
+    'rock',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/162.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Rush Text.

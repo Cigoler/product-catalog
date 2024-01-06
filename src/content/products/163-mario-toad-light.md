@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Mario Toad'
+description: 'The friendly Toad from the Mario game franchise. Always happy to help Mario on his quests. A great light for any fan or gaming room.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '163'
 tags: [
-    'ghostface', 
-    'horror',
+    'Mario', 
+    'toad',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/163.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Mario Toad.

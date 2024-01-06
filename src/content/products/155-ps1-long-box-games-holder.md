@@ -1,17 +1,17 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'PS1 Long Box Holder'
+description: 'PS1 long box games holder. 10 8 and 5 game option available.'
 category: 'Games Holders'
 sub category: 'PS1'
-catalogue number: '064'
+catalogue number: '155'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'ps1', 
+    'game holders',
+    'playstation', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/155.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for PS1 Long Box Holder.

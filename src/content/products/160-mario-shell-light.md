@@ -1,17 +1,17 @@
 ---
-title: 'Ghostface Scream'
-description: 'Ghostface scream LED light. Perfect for any horror fan. Different options available, one with lots of blood. one with a little blood and one with no blood.'
+title: 'Mario Shell'
+description: 'Simple but cool Mario shell light. A great addition for any Mario fan. Painted in both Red and Green.'
 category: 'LED Light Boxes'
 subcategory: 'Standard'
-catalogue number: '060'
+catalogue number: '160'
 tags: [
-    'ghostface', 
-    'horror',
+    'Mario', 
+    'shell',
     'Lightbox', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/060.png'
+heroImage: '/images/160.png'
 ---
 
-Placeholder content for Ghostface Scream.
+Placeholder content for Mario Shell.

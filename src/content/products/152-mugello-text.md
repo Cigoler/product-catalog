@@ -1,16 +1,16 @@
 ---
-title: 'PS1'
-description: 'An iconic PS1 console keyring. PS1 which kick started the Plastation rise to fame'
+title: 'Mugello'
+description: 'Mugello text.'
 category: 'Tracks & Racing'
-catalogue number: '047'
+catalogue number: '152'
 tags: [
-    'PS1', 
-    '',
-    'Keyring', 
+    'mugello', 
+    'track',
+    'text', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/047.jpg'
+heroImage: '/images/152.jpg'
 ---
 
-Placeholder content for PS1.
+Placeholder content for Mugello.

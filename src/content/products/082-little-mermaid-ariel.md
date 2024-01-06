@@ -5,8 +5,8 @@ category: 'LED Light Boxes'
 subcategory: 'Standard'
 catalogue number: '082'
 tags: [
-    'gLittle mermaid', 
-    'hariel',
+    'Little mermaid', 
+    'ariel',
     'Lightbox', 
     ]
 featured: true

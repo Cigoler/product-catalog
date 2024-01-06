@@ -1,16 +1,16 @@
 ---
-title: 'Buffalo Bills - Litho'
-description: 'Buffalo Bills from the NFL. Awesome bauble which is used with our generic bauble housing. 2 versions one with text and the famous logo or why not make it stand out more with a choice of players. Bruce Smith. Jim Kelly. Josh Allen or Steffon Diggs.'
+title: 'Ottawa Senators Puck'
+description: 'Ottawa Senators Puck. NHL team puck. There a few options available. Solid puck. Litho puck using a bauble light and also a natural light litho..'
 category: 'Random'
-catalogue number: '064'
+catalogue number: '154'
 tags: [
-    'bauble', 
-    'buffalo',
-    'bills', 
+    'puck', 
+    'ottawa',
+    'litho', 
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/064.jpg'
+heroImage: '/images/154.jpg'
 ---
 
-Placeholder content for Buffalo Bills - Litho.
+Placeholder content for Ottawa Senators Puck.
