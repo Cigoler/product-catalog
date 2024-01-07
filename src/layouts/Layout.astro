@@ -11,7 +11,7 @@ import '@/styles/globals.css'
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
@@ -38,9 +38,9 @@ import '@/styles/globals.css'
 		<meta property="twitter:description" content={description} />
 		<meta property="twitter:image" content={new URL(image, Astro.url)} />
 	</head>
-	<body>
+	<body class="dark:bg-gray-900">
 		<Header />
-		<main class="mx-auto max-w-7xl py-12">
+		<main class="mx-auto max-w-7xl py-12 ">
 			<slot />
 		</main>
 	</body>

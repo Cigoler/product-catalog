@@ -5,6 +5,22 @@ import {
     AccordionTrigger,
   } from "@/components/ui/accordion"
 
+  import { Button } from "@/components/ui/button"
+
+  import { Badge } from "@/components/ui/badge"
+
+
+  import {
+  Drawer,
+  DrawerClose,
+  DrawerContent,
+  DrawerDescription,
+  DrawerFooter,
+  DrawerHeader,
+  DrawerTitle,
+  DrawerTrigger,
+} from "@/components/ui/drawer"
+
   import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 
 /**
@@ -32,32 +48,55 @@ function AccordionWrapper({items, type="single", collapsible=true}) {
  * @returns {JSX.Element} - The rendered accordion items.
  */
 function Items({items}) {
+
     return (
         <>
             {items.map((item, index) => (
                     <AccordionItem value={item.value} key={index}>
-                        <AccordionTrigger>
+                        <AccordionTrigger className="dark:text-white">
                             {item.title}
                         </AccordionTrigger>
                         <AccordionContent>
-                            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
                                 {item.content.map((product) => (
                                     <Card key={product.slug} className="group">
-                                    {product.data.heroImage &&
-                                        <div class="cursor-pointer relative m-0 overflow-clip rounded-t-lg shadow-md h-32 w-full bg-clip-border">					  	
-                                            <img src={product.data.heroImage} alt={product.data.title} class="absolute h-full w-full object-contain rounded-t-md"/>						
-                                                <div class="h-full w-full group-hover:bg-gray-100/10 transition ease-in-out bg-gray-100/80 rounded-t-md"></div> 
-                                        </div>
-                                    }
-                                    <CardHeader>
-                                        <CardTitle>
-                                        {product.data.title}
-                                        </CardTitle>
-                                        <CardDescription>
-                                        {product.data.description}
-                                        </CardDescription>
-                                    </CardHeader>
-                                    </Card>
+                                    <Drawer>
+                                        <DrawerTrigger className="w-full">
+                                            
+                                                {product.data.heroImage &&
+                                                    <div className="cursor-pointer relative m-0 overflow-clip rounded-t-lg shadow-md h-32 w-full bg-clip-border">						
+                                                        <div className="h-full w-full transition ease-in-out bg-gray-100/80 rounded-t-md">
+                                                              			  	
+                                                        <img src={product.data.heroImage} alt={product.data.title} className="absolute h-full w-full object-contain rounded-t-md"/>		
+                                                        </div> 
+                                                        {/* <Badge variant="secondary" className="absolute bottom-1 left-1/2 transform -translate-x-1/2">
+                                                            {product.data.catalogueNumber}
+                                                        </Badge>   */}
+                                                    </div>
+                                                }
+                                                
+                                                <CardHeader className="text-left">
+                                                    <CardTitle>
+                                                    {product.data.title}
+                                                    </CardTitle>
+                                                    <CardDescription>
+                                                    #{product.data.catalogueNumber}
+                                                    </CardDescription>
+                                                </CardHeader>
+                                        </DrawerTrigger>
+                                        <DrawerContent>
+                                            <DrawerHeader>
+                                            <DrawerTitle>Are you absolutely sure?</DrawerTitle>
+                                            <DrawerDescription>This action cannot be undone.</DrawerDescription>
+                                            </DrawerHeader>
+                                            <DrawerFooter>
+                                            <Button>Submit</Button>
+                                            <DrawerClose>
+                                                <Button variant="outline">Cancel</Button>
+                                            </DrawerClose>
+                                            </DrawerFooter>
+                                        </DrawerContent>
+                                    </Drawer></Card>
                                 ))}
                             </div>
                         </AccordionContent>
