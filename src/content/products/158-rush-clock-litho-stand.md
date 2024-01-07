@@ -10,7 +10,7 @@ tags: [
     ]
 featured: true
 pubDate: '2023-12-20'
-heroImage: '/images/158.png'
+heroImage: '/images/158.jpg'
 ---
 
 Placeholder content for Rush - [Stand].

@@ -45,7 +45,7 @@ function Items({items}) {
                                     <Card key={product.slug} className="group">
                                     {product.data.heroImage &&
                                         <div class="cursor-pointer relative m-0 overflow-clip rounded-t-lg shadow-md h-32 w-full bg-clip-border">					  	
-                                            <img src={product.data.heroImage} alt={product.data.title} class="absolute h-full w-full object-cover rounded-t-md"/>						
+                                            <img src={product.data.heroImage} alt={product.data.title} class="absolute h-full w-full object-contain rounded-t-md"/>						
                                                 <div class="h-full w-full group-hover:bg-gray-100/10 transition ease-in-out bg-gray-100/80 rounded-t-md"></div> 
                                         </div>
                                     }
