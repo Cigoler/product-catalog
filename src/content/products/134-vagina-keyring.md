@@ -1,5 +1,5 @@
 ---
-title: 'PS1'
+title: 'Vagina'
 description: 'Vagina Keyring'
 category: 'Adult'
 subcategory: 'Keyrings'
