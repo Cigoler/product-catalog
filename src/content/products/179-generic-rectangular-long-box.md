@@ -1,7 +1,7 @@
 ---
 title: 'Generic Rectangular - Long'
 description: 'Generic rectangular Long housing that is used to hold the generic rectangular Long fronts. Can also be found in the collections page on Patreon.'
-category: 'Generic'
+category: 'Generic Housings & Parts'
 catalogue number: '179'
 tags: [
     'rectangular', 

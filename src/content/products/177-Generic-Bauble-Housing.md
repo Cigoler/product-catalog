@@ -1,7 +1,7 @@
 ---
 title: 'Generic Bauble'
 description: 'Generic bauble housing that is used to hold the generic bauble fronts. Can also be found in the collections page on Patreon.'
-category: 'Generic'
+category: 'Generic Housings & Parts'
 catalogue number: '177'
 tags: [
     'bauble', 

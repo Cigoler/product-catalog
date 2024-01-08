@@ -1,7 +1,7 @@
 ---
 title: 'Generic - Round'
 description: 'Generic Round housing that is used to hold the generic Round fronts. Can also be found in the collections page on Patreon.'
-category: 'Generic'
+category: 'Generic Housings & Parts'
 catalogue number: '181'
 tags: [
     'Round', 
