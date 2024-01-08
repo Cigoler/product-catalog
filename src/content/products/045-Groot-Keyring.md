@@ -1,5 +1,5 @@
 ---
-title: 'Grogu'
+title: 'Baby Groot'
 description: 'Cute little keyring. Baby Groot from the Marvel Guardians of the Galaxy and Avengers movies'
 category: 'Keyrings'
 catalogue number: '045'
@@ -13,4 +13,4 @@ pubDate: '2023-10-20'
 heroImage: '/images/045.jpg'
 ---
 
-Placeholder content for Grogu.
+Placeholder content for Baby Groot.
