@@ -1,6 +1,6 @@
 ---
 title: 'Grinch Head With Hat'
-description: 'The green monster who hates xmas and all the joy. Grinch pops out in this Generic Round light.'
+description: 'The green monster who hates xmas and all the joy. Grinch pops out in this front. To be used with the generic round housing.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '097'

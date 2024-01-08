@@ -1,6 +1,6 @@
 ---
 title: 'Tribal Face'
-description: 'Simple but cool tribal face. Design pops out in this Generic Round light.'
+description: 'Simple but cool tribal face. Design pops out in this front. To be used with the generic round housing.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '100'
