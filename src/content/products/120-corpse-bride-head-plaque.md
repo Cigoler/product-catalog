@@ -1,7 +1,7 @@
 ---
 title: 'Corpse Bride'
 description: 'Model of the Corpse Bride. Great decoration piece. Great item for any movie fan.'
-category: 'Straw Toppers'
+category: 'Plaques, Wall Art & Signs'
 catalogue number: '120'
 tags: [
     'Corpse bride', 
