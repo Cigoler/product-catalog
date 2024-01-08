@@ -77,10 +77,10 @@ function Items({items}) {
                                                 
                                                 <CardHeader className="text-left">
                                                     <CardTitle>
-                                                    {product.data.title} <Badge variant="secondary">{product.data.catalogueNumber}</Badge>
+                                                    {product.data.title} <Badge variant="secondary">#{product.data.catalogueNumber}</Badge>
                                                     </CardTitle>
                                                     <CardDescription>
-                                                    #{product.data.description}
+                                                    {product.data.description}
                                                     </CardDescription>
                                                 </CardHeader>
                                         </DrawerTrigger>
