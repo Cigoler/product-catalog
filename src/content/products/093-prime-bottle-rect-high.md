@@ -1,6 +1,6 @@
 ---
 title: 'Prime Bottle'
-description: 'A drink which sent the kids wild and the parents trying to find it - High box.'
+description: 'A drink which sent the kids wild and the parents trying to find it. One that is used with the generic rectangular - High box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
 catalogue number: '093'

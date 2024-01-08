@@ -1,6 +1,6 @@
 ---
 title: 'Nice Until Proven Naughty'
-description: 'Nice Until Proven Naughty LED light. Simple but cute design. One that is used with the generic rectangular - Long box.'
+description: 'Nice Until Proven Naughty LED light. Simple but cute design. One that is used with the generic rectangular - High box.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Rectangular'
 catalogue number: '109'
