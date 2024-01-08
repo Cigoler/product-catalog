@@ -80,7 +80,7 @@ function Items({items}) {
                                                     {product.data.title} <Badge variant="secondary">{product.data.catalogueNumber}</Badge>
                                                     </CardTitle>
                                                     <CardDescription>
-                                                    #{product.data.content}
+                                                    #{product.data.description}
                                                     </CardDescription>
                                                 </CardHeader>
                                         </DrawerTrigger>
