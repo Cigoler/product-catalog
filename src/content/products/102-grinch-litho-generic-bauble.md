@@ -1,7 +1,7 @@
 ---
 title: 'Ginch - [Litho]'
 description: 'The green monster who hates xmas and all the joy. Awesome bauble which is used with our generic bauble housing. You can have this so it is a Grinch face either side or a Grinch face on one and litho window on the other. 11 litho images included.'
-category: 'Baubles, Globes & Ornaments'
+category: 'Baubles, Globes & Tree Ornaments'
 subcategory: 'Generic Bauble'
 catalogue number: '102'
 tags: [

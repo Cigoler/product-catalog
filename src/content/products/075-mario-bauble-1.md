@@ -1,7 +1,7 @@
 ---
 title: 'Mario Bauble 1'
 description: 'Great and simple Mario silhouette bauble. The perfect way to glam up your xmas tree.'
-category: 'Baubles, Globes & Ornaments'
+category: 'Baubles, Globes & Tree Ornaments'
 catalogue number: '075'
 tags: [
     'Mario', 
