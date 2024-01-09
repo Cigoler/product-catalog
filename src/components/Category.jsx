@@ -85,16 +85,27 @@ function Items({items}) {
                                                 </CardHeader>
                                         </DrawerTrigger>
                                         <DrawerContent>
-                                            <DrawerHeader>
-                                            <DrawerTitle>Are you absolutely sure?</DrawerTitle>
-                                            <DrawerDescription>This action cannot be undone.</DrawerDescription>
-                                            </DrawerHeader>
-                                            <DrawerFooter>
-                                            <Button>Submit</Button>
-                                            <DrawerClose>
-                                                <Button variant="outline">Cancel</Button>
-                                            </DrawerClose>
-                                            </DrawerFooter>
+                                            
+                                            <div className="mx-auto w-full max-w-sm">
+                                                <DrawerHeader>
+                                                    <DrawerTitle>Viewing <span className="font-bold">{product.data.title}</span></DrawerTitle>
+                                                    <DrawerDescription>
+                                                       <div className="space-y-3">
+                                                         <img src={product.data.heroImage} alt={product.data.title} className="py-6 w-full rounded-md"/>		
+                                                        <p>Catalogue Number: <strong>#{product.data.catalogueNumber}</strong></p>
+                                                        {/* print human readable date */}
+                                                        <p>Published Date: <strong>{new Date(product.data.pubDate).toLocaleDateString()}</strong></p>
+                                                        <p>Subcategory: <strong>{product.data.subcategory ?? 'Default'}</strong></p>
+                                                        <p>{product.data.description}</p>
+                                                       </div>
+                                                    </DrawerDescription>
+                                                </DrawerHeader>
+                                                <DrawerFooter>
+                                                    <DrawerClose>
+                                                        <Button variant="outline">Close</Button>
+                                                    </DrawerClose>
+                                                </DrawerFooter>
+                                            </div>
                                         </DrawerContent>
                                     </Drawer></Card>
                                 ))}
