@@ -1,6 +1,6 @@
 ---
 title: 'Big Nick Energy'
-description: 'Simple but cool xmas Big Nick Energy light front. Saint Nick pops out in this Generic Round light.'
+description: 'Simple but cool xmas Big Nick Energy light front. Saint Nick pops out in this front. To be used with the generic round housing.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '099'

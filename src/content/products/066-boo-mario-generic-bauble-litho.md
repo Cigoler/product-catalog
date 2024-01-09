@@ -1,7 +1,7 @@
 ---
 title: 'Boo - Mario - [Litho]'
 description: 'Awesome bauble which is used with our generic bauble housing. Boo the ghost from the popular Mario franchise on one side and a Mario litho window on the other.'
-category: 'Baubles, Globes & Ornaments'
+category: 'Baubles, Globes & Tree Ornaments'
 subcategory: 'Generic Bauble'
 catalogue number: '066'
 tags: [

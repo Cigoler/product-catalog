@@ -1,7 +1,7 @@
 ---
 title: 'Mickey Bauble 2'
 description: 'Great and simple Mickey Mouse silhouette bauble. The perfect way to glam up your xmas tree.'
-category: 'Baubles, Globes & Ornaments'
+category: 'Baubles, Globes & Tree Ornaments'
 catalogue number: '076'
 tags: [
     'bMickey', 

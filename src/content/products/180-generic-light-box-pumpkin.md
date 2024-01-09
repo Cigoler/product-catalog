@@ -1,7 +1,7 @@
 ---
 title: 'Generic Rectangular - Pumpkin'
 description: 'Generic Pumpkin housing that is used to hold the generic Pumpkin fronts. Can also be found in the collections page on Patreon.'
-category: 'Generic'
+category: 'Generic Housings & Parts'
 catalogue number: '180'
 tags: [
     'Pumpkin', 

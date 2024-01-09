@@ -1,6 +1,6 @@
 ---
 title: 'Calgary Flames'
-description: 'Calgary Flames light front. NHL Ice hockey team.'
+description: 'Calgary Flames light front. NHL Ice hockey team. To be used with the generic round housing.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '038'

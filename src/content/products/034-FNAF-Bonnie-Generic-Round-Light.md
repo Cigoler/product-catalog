@@ -1,6 +1,6 @@
 ---
 title: 'FNAF Bonnie'
-description: 'Five nights at Freddys light front. Freddy and the animatronic gang hit the cinemas in 2023.'
+description: 'Five nights at Freddys light front. Freddy and the animatronic gang hit the cinemas in 2023. To be used with the generic round housing.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '034'

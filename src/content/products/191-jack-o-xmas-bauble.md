@@ -1,7 +1,7 @@
 ---
 title: 'Jack O Xmas'
 description: 'Jack O Xmas. Jack Skellington with an Xmas hat. Cool bauble that will make any tree look awesome. Great item for any movie fan'
-category: 'Baubles, Globes & Ornaments'
+category: 'Baubles, Globes & Tree Ornaments'
 catalogue number: '191'
 tags: [
     'bauble', 

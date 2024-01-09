@@ -1,6 +1,6 @@
 ---
 title: 'Buffalo Bills'
-description: 'Buffalo Bills light front. NFL American football team.'
+description: 'Buffalo Bills light front. NFL American football team. To be used with the generic round housing.'
 category: 'LED Light Boxes'
 subcategory: 'Generic Round'
 catalogue number: '039'

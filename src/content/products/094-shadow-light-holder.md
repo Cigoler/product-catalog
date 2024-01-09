@@ -1,7 +1,7 @@
 ---
 title: 'Shadow Light Holder'
 description: 'Generic holder that is used to hold the Shadow Plates. Can also be found in the collections page on Patreon. Tealight. LED tealight or Bauble light option.'
-category: 'Generic'
+category: 'Generic Housings & Parts'
 catalogue number: '094'
 tags: [
     'shadow plates', 

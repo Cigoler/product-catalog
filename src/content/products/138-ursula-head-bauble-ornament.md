@@ -1,7 +1,7 @@
 ---
 title: 'Ursula Head'
 description: 'The deepsea evil Queen Ursula from the Little Mermaid. A cool bauble for any fan of the movie'
-category: 'Baubles, Globes & Ornaments'
+category: 'Baubles, Globes & Tree Ornaments'
 catalogue number: '138'
 tags: [
     'bauble', 
