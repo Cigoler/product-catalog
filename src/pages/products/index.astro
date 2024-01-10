@@ -5,7 +5,7 @@ import Layout from '@/layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import { AccordionWrapper } from '@/components/Category.jsx';
 const products = (await getCollection('products')).sort(
-	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+	(a, b) => a.data.title.localeCompare(b.data.title)
 );
 
 /**
@@ -14,15 +14,26 @@ const products = (await getCollection('products')).sort(
  * @param {Array} products - The array of products to group.
  * @returns {Object} An object with keys representing each category and values representing an array of products in that category.
  */
-function groupByCategory(products) {
-	return products.reduce((acc, product) => {
-		const category = product.data.category || 'Uncategorized';
-		if (!acc[category]) {
-			acc[category] = [];
-		}
-		acc[category].push(product);
-		return acc;
-	}, {});
+ function groupByCategory(products) {
+    let grouped = products.reduce((acc, product) => {
+        const category = product.data.category || 'Uncategorized';
+        if (!acc[category]) {
+            acc[category] = [];
+        }
+        acc[category].push(product);
+        return acc;
+    }, {});
+
+    // Sort categories
+    let sortedCategories = Object.keys(grouped).sort();
+
+    // Sort products within each category
+    let sortedGrouped = {};
+    for (let category of sortedCategories) {
+        sortedGrouped[category] = grouped[category].sort((a, b) => a.data.title.localeCompare(b.data.title));
+    }
+
+    return sortedGrouped;
 }
 
 

@@ -77,11 +77,13 @@ function Items({items}) {
                                                 
                                                 <CardHeader className="text-left">
                                                     <CardTitle>
-                                                    {product.data.title} <Badge variant="secondary">#{product.data.catalogueNumber}</Badge>
+                                                    <span className="tracking-tighter text-xs text-logo-grey font-thin"> <span className="text-lg font-bold">{product.data.title}</span> - {product.data.catalogueNumber}</span>
                                                     </CardTitle>
                                                     <CardDescription>
-                                                    {product.data.description}
+                                                        {product.data.description}
                                                     </CardDescription>
+                                                    
+                                                    { product.data.tags && <p><em className="text-logo-light">{product.data.tags.join(', ')}</em></p>}
                                                 </CardHeader>
                                         </DrawerTrigger>
                                         <DrawerContent>
@@ -91,12 +93,13 @@ function Items({items}) {
                                                     <DrawerTitle>Viewing <span className="font-bold">{product.data.title}</span></DrawerTitle>
                                                     <DrawerDescription>
                                                        <div className="space-y-3">
-                                                         <img src={product.data.heroImage} alt={product.data.title} className="py-6 w-full rounded-md"/>		
+                                                         <img src={product.data.heroImage} alt={product.data.title} className="py-6 h-64 w-auto mx-auto rounded-lg"/>		
                                                         <p>Catalogue Number: <strong>#{product.data.catalogueNumber}</strong></p>
                                                         {/* print human readable date */}
                                                         <p>Published Date: <strong>{new Date(product.data.pubDate).toLocaleDateString()}</strong></p>
-                                                        <p>Subcategory: <strong>{product.data.subcategory ?? 'Default'}</strong></p>
+                                                        { product.data.subcategory && <p>Subcategory: <strong>{product.data.subcategory ?? 'Default'}</strong></p>}
                                                         <p>{product.data.description}</p>
+                                                        { product.data.tags && <p>Tags: <strong>{product.data.tags.join(', ')}</strong></p>}
                                                        </div>
                                                     </DrawerDescription>
                                                 </DrawerHeader>

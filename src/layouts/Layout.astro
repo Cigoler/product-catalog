@@ -4,7 +4,7 @@ interface Props {
 	description?: string;
 	image?: string;
 }
-const { title, description = 'Product Catalog Website', image = '/blog-placeholder-1.jpg' } = Astro.props;
+const { title, description = 'Product Catalog Website', image = '/apple-touch-icon.png' } = Astro.props;
 
 import Header from '@/components/Header.astro';
 import '@/styles/globals.css'
@@ -16,7 +16,7 @@ import '@/styles/globals.css'
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href="/logo_small2.png" />
 		<meta name="generator" content={Astro.generator} />
 
 		<!-- Primary Meta Tags -->
@@ -38,7 +38,7 @@ import '@/styles/globals.css'
 		<meta property="twitter:description" content={description} />
 		<meta property="twitter:image" content={new URL(image, Astro.url)} />
 	</head>
-	<body class="dark:bg-gray-900">
+	<body class="bg-logo-white dark:bg-gray-900">
 		<Header />
 		<main class="mx-auto max-w-7xl py-12 ">
 			<slot />
