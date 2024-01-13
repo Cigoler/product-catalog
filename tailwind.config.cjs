@@ -16,6 +16,13 @@ module.exports = {
       },
     },
     extend: {
+      colors: {
+        'logo-dark': '#123D40', // Dark Teal color from the logo
+        'logo-light': '#4FBDBA', // Light Teal color from the logo
+        'logo-cyan': '#17A2B8', // Cyan color from the logo
+        'logo-grey': '#465A5E', // Grey color from the logo
+        'logo-white': '#FFFFFF', // White color from the logo
+      },
       keyframes: {
         "accordion-down": {
           from: { height: 0 },

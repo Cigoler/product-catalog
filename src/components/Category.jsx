@@ -77,24 +77,38 @@ function Items({items}) {
                                                 
                                                 <CardHeader className="text-left">
                                                     <CardTitle>
-                                                    {product.data.title} <Badge variant="secondary">#{product.data.catalogueNumber}</Badge>
+                                                    <span className="tracking-tighter text-xs text-logo-grey font-thin"> <span className="text-lg font-bold">{product.data.title}</span> - {product.data.catalogueNumber}</span>
                                                     </CardTitle>
                                                     <CardDescription>
-                                                    {product.data.description}
+                                                        {product.data.description}
                                                     </CardDescription>
+                                                    
+                                                    { product.data.tags && <p><em className="text-logo-light">{product.data.tags.join(', ')}</em></p>}
                                                 </CardHeader>
                                         </DrawerTrigger>
                                         <DrawerContent>
-                                            <DrawerHeader>
-                                            <DrawerTitle>Are you absolutely sure?</DrawerTitle>
-                                            <DrawerDescription>This action cannot be undone.</DrawerDescription>
-                                            </DrawerHeader>
-                                            <DrawerFooter>
-                                            <Button>Submit</Button>
-                                            <DrawerClose>
-                                                <Button variant="outline">Cancel</Button>
-                                            </DrawerClose>
-                                            </DrawerFooter>
+                                            
+                                            <div className="mx-auto w-full max-w-sm">
+                                                <DrawerHeader>
+                                                    <DrawerTitle>Viewing <span className="font-bold">{product.data.title}</span></DrawerTitle>
+                                                    <DrawerDescription>
+                                                       <div className="space-y-3">
+                                                         <img src={product.data.heroImage} alt={product.data.title} className="py-6 h-64 w-auto mx-auto rounded-lg"/>		
+                                                        <p>Catalogue Number: <strong>#{product.data.catalogueNumber}</strong></p>
+                                                        {/* print human readable date */}
+                                                        <p>Published Date: <strong>{new Date(product.data.pubDate).toLocaleDateString()}</strong></p>
+                                                        { product.data.subcategory && <p>Subcategory: <strong>{product.data.subcategory ?? 'Default'}</strong></p>}
+                                                        <p>{product.data.description}</p>
+                                                        { product.data.tags && <p>Tags: <strong>{product.data.tags.join(', ')}</strong></p>}
+                                                       </div>
+                                                    </DrawerDescription>
+                                                </DrawerHeader>
+                                                <DrawerFooter>
+                                                    <DrawerClose>
+                                                        <Button variant="outline">Close</Button>
+                                                    </DrawerClose>
+                                                </DrawerFooter>
+                                            </div>
                                         </DrawerContent>
                                     </Drawer></Card>
                                 ))}
