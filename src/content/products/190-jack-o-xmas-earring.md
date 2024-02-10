@@ -4,7 +4,7 @@ description: 'Jack O Xmas. Jack Skellington with an Xmas hat. Cool earrings. Gre
 category: 'Earrings'
 catalogue number: '190'
 tags: [
-    'bauble', 
+    'Earring', 
     'Xmas',
     'NBC', 
     ]
