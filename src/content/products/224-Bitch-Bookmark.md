@@ -1,6 +1,6 @@
 ---
 title: 'Bitch'
-description: 'Funny bitch bookmark. Great gift for any bookworm .'
+description: 'Funny bitch bookmark. Great gift for any bookworm.'
 category: 'Bookmarks'
 catalogue number: '224'
 tags: [
