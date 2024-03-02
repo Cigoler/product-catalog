@@ -10,7 +10,7 @@ tags: [
     ]
 featured: true
 pubDate: '2024-02-26'
-heroImage: '/images/224.png'
+heroImage: '/images/224.PNG'
 ---
 
 Placeholder content for Bitch.
