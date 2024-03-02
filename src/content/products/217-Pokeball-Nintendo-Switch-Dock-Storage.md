@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2024-02-17'
-heroImage: '/images/027.jpg'
+heroImage: '/images/217.jpg'
 ---
 
 Placeholder content for Pokeball.
