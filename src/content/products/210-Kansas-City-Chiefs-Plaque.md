@@ -1,7 +1,7 @@
 ---
 title: 'Kansas City Chiefs'
 description: 'Great Plaque for any KC Chiefs fan. NFL Superbowl Finalists 2024'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '210'
 tags: [
     'KC Chiefs', 

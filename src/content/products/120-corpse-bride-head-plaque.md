@@ -1,7 +1,7 @@
 ---
 title: 'Corpse Bride'
 description: 'Model of the Corpse Bride. Great decoration piece. Great item for any movie fan.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '120'
 tags: [
     'Corpse bride', 

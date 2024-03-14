@@ -1,7 +1,7 @@
 ---
 title: 'Chesire Cat Head'
 description: 'Awesome model of the Chesire cat from the Alice in Wonderland cartoon. Great decoration piece. Great item for any movie fan.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '116'
 tags: [
     'Chesire cat', 

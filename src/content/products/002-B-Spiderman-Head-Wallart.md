@@ -1,7 +1,7 @@
 ---
 title: 'Spiderman Head Wallart'
 description: 'Spiderman head wallart. A great addition to any Spidey fans game room office or bedroom'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '002'
 tags: [
     'Spiderman', 

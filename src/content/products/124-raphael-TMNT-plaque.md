@@ -1,7 +1,7 @@
 ---
 title: 'Raphael TMNT'
 description: 'Teenage mutant ninja turtles Raphael. Great decoration piece. Great item for any movie fan.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '124'
 tags: [
     'TMNT', 

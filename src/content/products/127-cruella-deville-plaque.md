@@ -1,7 +1,7 @@
 ---
 title: 'Cruella Deville'
 description: 'The evil villain from the 101 dalmations movie Cruella Deville. Great decorative piece for any fans room.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '127'
 tags: [
     '101 dalmations', 

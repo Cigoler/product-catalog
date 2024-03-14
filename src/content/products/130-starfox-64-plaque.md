@@ -1,7 +1,7 @@
 ---
 title: 'Starfox 64'
 description: 'A game from the popular Nintendo 64 console. Starfox64.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '130'
 tags: [
     'starfox', 

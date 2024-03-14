@@ -1,7 +1,7 @@
 ---
 title: 'Ursula Head'
 description: 'The deepsea evil Queen Ursula from the Little Mermaid. A cool plaque for any fan of the movie.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '136'
 tags: [
     'ursula', 

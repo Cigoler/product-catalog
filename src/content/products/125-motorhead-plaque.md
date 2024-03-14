@@ -1,7 +1,7 @@
 ---
 title: 'Motorhead'
 description: 'British rock band Motorhead lead by the legendry Lemmy. Celebrate the band with this cool plaque'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '125'
 tags: [
     'Motorhead', 

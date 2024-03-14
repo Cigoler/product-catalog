@@ -1,7 +1,7 @@
 ---
 title: 'Grinch Head Xmas Hat'
 description: 'The green monster who hates xmas and all the joy. Great decoration piece.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '114'
 tags: [
     'Grinch', 

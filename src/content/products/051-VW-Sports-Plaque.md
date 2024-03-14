@@ -1,7 +1,7 @@
 ---
 title: 'VW Sports'
 description: 'VW Sports plaque.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '051'
 tags: [
     'VW', 

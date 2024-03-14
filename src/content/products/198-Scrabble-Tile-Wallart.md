@@ -1,7 +1,7 @@
 ---
 title: 'Scrabble'
 description: 'Excellent item for Weddings, Valentines and Birthdays. Scrabble wall art. 3 alternative tiles available. Flat. Embossed or Sunk in. 2 holders also available seperate tiles for unlimited names and set plates which hold upto 8 tiles. '
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '198'
 tags: [
     'Plaque', 

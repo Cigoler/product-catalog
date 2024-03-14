@@ -1,7 +1,7 @@
 ---
 title: 'Minecraft Door Sign'
 description: 'Minecraft door sign A great addition to any Minecraft fans game room office or bedroom'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '006'
 tags: [
     'Minecraft', 

@@ -1,7 +1,7 @@
 ---
 title: 'Jack O Xmas'
 description: 'Jack O Xmas. Jack Skellington with an Xmas hat. Cool wall decoration. Great item for any movie fan'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '132'
 tags: [
     'Jack o xmas', 

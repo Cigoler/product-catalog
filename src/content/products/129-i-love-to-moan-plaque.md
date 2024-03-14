@@ -1,7 +1,7 @@
 ---
 title: 'I Love To Moan'
 description: 'I love to Moan but I am a Machine wall plaque. We all know someone who loves to moan but just carries on.'
-category: 'Plaques, Wall Art & Signs'
+category: 'Plaques, Wall Art, Signs & Door Signs'
 catalogue number: '129'
 tags: [
     'funny', 
