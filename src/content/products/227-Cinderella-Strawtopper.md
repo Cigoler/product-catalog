@@ -10,7 +10,7 @@ tags: [
     ]
 featured: true
 pubDate: '2024-03-07'
-heroImage: '/images/227.jpg'
+heroImage: '/images/227.png'
 ---
 
 Placeholder content for Cinderella.
