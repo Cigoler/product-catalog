@@ -11,7 +11,7 @@ tags: [
     ]
 featured: true
 pubDate: '2024-06-13'
-heroImage: '/images/292 B.jpg'
+heroImage: '/images/292 B.png'
 ---
 
 Placeholder content for Lilo & Stitch - Shade 3.
