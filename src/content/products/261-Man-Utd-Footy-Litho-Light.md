@@ -1,7 +1,7 @@
 ---
 title: 'Man Utd'
 description: 'Great nightlight for any Red Devils fan. One of the most decorated football teams in English football. Bring them to light with this football themed litho light'
-category: 'Night Lamps'
+category: 'Lamps - Night Lamps - Litho Lamps'
 subcategory: 'Litho'
 catalogue number: '261'
 tags: [

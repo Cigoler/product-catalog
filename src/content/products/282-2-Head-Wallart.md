@@ -1,16 +1,16 @@
 ---
-title: 'Fallout Thumb Up'
-description: 'Great Plaque for any Fallout fan. Game or TV show this is a great piece'
+title: '2 Heads'
+description: 'Gothic 2 head piece wall plaque'
 category: 'Plaques, Wall Art, Signs & Door Signs'
-catalogue number: '259'
+catalogue number: '282'
 tags: [
-    'Gaming', 
+    'Gothic', 
     'Plaque', 
-    'Fallout',
+    'Heads',
     ]
 featured: true
-pubDate: '2024-04-15'
-heroImage: '/images/259.png'
+pubDate: '2024-05-28'
+heroImage: '/images/282.jpg'
 ---
 
-Placeholder content for Fallout Thumb Up.
+Placeholder content for 2 Heads.

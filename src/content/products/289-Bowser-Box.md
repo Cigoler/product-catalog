@@ -1,16 +1,17 @@
 ---
-title: 'Jack O Pumpkin'
-description: 'Jack O Pumpkin. A mixture of Jack Skellington and a pumpkin. Awesome Storage box with either a flat or embossed lid. Box has 2 depth options 90 mm or 40 mm The choice is yours. Great item for any movie fan'
+title: 'Bowser'
+description: 'Always looking for somewhere to keep your keys or loose change. Look no further than this cool Bowser box. To be used with the generic storage box.'
 category: 'Boxes'
-catalogue number: '055'
+catalogue number: '289'
+subcategory: 'Generic Storage Box'
 tags: [
-    'NBC', 
-    'Jack Skellington',
+    'Bowser', 
+    'Mario',
     'Box', 
     ]
 featured: true
-pubDate: '2023-10-20'
-heroImage: '/images/055.jpg'
+pubDate: '2024-06-04'
+heroImage: '/images/289.jpg'
 ---
 
-Placeholder content for Jack O Pumpkin.
+Placeholder content for Bowser.

@@ -1,16 +1,17 @@
 ---
-title: 'Generic Rectangular - Pumpkin'
-description: 'Generic Pumpkin housing that is used to hold the generic Pumpkin fronts. Can also be found in the collections page on Patreon.'
+title: 'Generic Storage - Square [120 x 120]'
+description: 'Generic square storage box. 120 x 120. 88 mm internal depth or 58 mm available. also included is an option with a slider tray. Can also be found in the collections page on Patreon.'
 category: 'Generic Housings & Parts'
-catalogue number: '180'
+subcategory: 'Generic Storage Box'
+catalogue number: '290'
 tags: [
-    'Pumpkin', 
-    'generic',
-    'Lights', 
+    'Square', 
+    'Generic',
+    'Storage', 
     ]
 featured: true
-pubDate: '2024-01-01'
-heroImage: '/images/180.png'
+pubDate: '2024-06-04'
+heroImage: '/images/290.png'
 ---
 
-Placeholder content for Generic Rectangular - Pumpkin.
+Placeholder content for Generic Storage - Square [120 x 120].
