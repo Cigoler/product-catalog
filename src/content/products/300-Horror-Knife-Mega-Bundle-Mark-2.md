@@ -6,7 +6,7 @@ catalogue number: '300'
 tags: [
     'Horror', 
     'Halloween', 
-    'MKnives', 
+    'Knives', 
     'Scary',
     ]
 featured: true
